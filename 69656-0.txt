@@ -1,0 +1,3950 @@
+﻿The Project Gutenberg eBook of Greek Primer, by J. Stuart Blackie
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Greek Primer
+
+Author: J. Stuart Blackie
+
+Release Date: December 29, 2022 [eBook #69656]
+
+Language: English
+
+Produced by: deaurider and the Online Distributed Proofreading Team at
+             https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK GREEK PRIMER ***
+
+
+
+
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Old or antiquated spellings have been preserved.
+  Typographical and punctuation errors have been silently corrected.
+
+
+
+
+GREEK PRIMER
+
+[Illustration]
+
+
+
+
+                           GREEK PRIMER
+                    COLLOQUIAL AND CONSTRUCTIVE
+
+                                BY
+                         J. STUART BLACKIE
+
+                EMERITUS PROFESSOR OF GREEK IN THE
+                     UNIVERSITY OF   EDINBURGH
+
+    Scribendo dicimus diligentius, dicendo scribimus facilius.
+                                                  QUINCTILIAN.
+
+                              London
+                         MACMILLAN AND CO.
+                           AND NEW YORK
+                               1891
+
+                       _All rights reserved_
+
+
+
+
+PREFACE
+
+
+One cannot have moved much in the world without hearing complaints,
+both from parents and young persons, about the amount of time and brain
+spent in the learning of languages, and the little profit derived from
+this outlay. These complaints, no doubt, arise partly from the want
+of judgment on the part of the parents, and the want of capacity and
+inclination on the part of their young hopefuls: parents often acting
+thoughtlessly on the vulgar notion that far birds have fair feathers,
+and preferring what is foreign to what is native, and what lies at a
+great distance in time or space to what is near; and young persons
+being forced to submit themselves to a grammatical indoctrination in
+which they feel no interest, and from which they derive no benefit.
+But it is no less true that these complaints are due in no small
+measure to false methods of linguistic training generally, or to some
+cherished prejudices in favour of certain languages on the part of the
+teachers; and it becomes therefore, at the present day, a matter of
+great practical importance to inquire how far our traditional methods
+of teaching languages are in conformity with the method of Nature in
+her great art of thought-utterance, and how far they may justly be
+called on to submit themselves to a revision and a reconstitution.
+We say at the present day emphatically, because it is quite evident
+that education, following in the train of democratic reform, is one of
+the watchwords of the hour, to which every good citizen must lend an
+obedient ear; and not only so, but circumstances have so changed since
+our schooling received its traditional form, that the wants which were
+satisfied by our school curriculum and school practice in the days
+of Milton and Locke now demand an altogether different treatment. In
+particular, the so-called learned languages, two hundred years ago the
+only medium of culture to an accomplished English gentleman, have now
+become the luxury of the leisurely, or the arsenal of the professional
+few, while other languages, such as German, not named in those days,
+are now sought after as the keys to the most valuable storehouses of
+all sorts of knowledge. Add to this that Great Britain, which was then
+a secondary naval power, and following the French and the Spaniards
+slowly in the great world-transforming process of colonisation, is now
+mistress of a world-wide empire from the Ganges to Vancouver Isle,
+through which stretch she exercises a dominant influence, combining
+the political virtue of ancient Rome with the commercial activity of
+Carthage. In these circumstances it becomes the special duty of every
+British man to acquire a familiar knowledge of the languages of the
+various races with which he may be brought into political or commercial
+relations; and, as languages after all are not valuable in themselves,
+but only as tools by which effective work in certain fields falls to
+be performed, we ought to see to it, both that we get the proper tools
+for doing the work, and that we learn to use them in such fashion as to
+work pleasantly and profitably; and in this view it may be truly said
+that, while the wrong language in the wrong place is of no use at all,
+even the right language in the right place, when imperfectly learned,
+is a tool with which the best workman can do only bad work, and perhaps
+cut his own fingers in the process.
+
+As language is a function which belongs as much to every normal human
+creature as seeing or hearing, there can be no difficulty in finding
+out the method of Nature in its acquisition. We have to answer only
+two questions: first, What are the factors of the process by which
+the human babe, from being capable merely of inarticulate cries, like
+any of the lower animals, is developed into an easy and graceful
+manipulator of articulate speech? and again, How far, and in what
+respects, does this model require to be modified in order to enable
+the expert handlers of the mother tongue to use any second or third
+language with like expertness? That this cannot be a very difficult
+matter demands no far-sought induction to prove, as the fact lies
+before us; for from the Greeks in the South-East to the Highlanders
+in the North-West we find bilingual and trilingual peoples largely
+scattered over Europe. It is in fact as easy to learn two or three
+languages as to learn one, if only the learner be habitually submitted
+to the natural influences, and guided by the steps of a natural process.
+
+What then, in the first place, are the steps of the process which
+analysis presents as elevating the inarticulate babe to the
+significant-speaking boy or girl? There is (1) the direct connection
+of certain objects with certain sounds and gestures; (2) these objects
+are such as stand in the nearest relation to the learner, and are
+presented to him in an atmosphere of the most natural and most pleasant
+surroundings; (3) the imitative faculty, by which he appropriates the
+proper sounds, is encouraged and cherished by frequent repetition, till
+the original impression becomes permanently stamped into his soul,
+and, so to speak, jumps up spontaneously with the object. Let us, in
+the next place, ask how far this child’s linguistic ladder is affected
+by the performer being an adult. Manifestly the difference lies only
+in one point, and that altogether in favour of the adult, viz. the
+application of a regulated system to the accidental sequences by which
+the child learns its mother tongue, easily indeed and pleasantly, but
+slowly; for he learns not architecturally as a mason builds a house,
+but by the way, as one picks up a pebble on the shore or a daisy from
+the meadow; whereas the adult, with his firm will and his reasonable
+purpose, wishing to learn a language can submit himself to a reasonable
+and a calculated treatment; and in so doing experience has shown that
+in favourable circumstances, and under wise training, he can learn a
+foreign language more perfectly in six months than a child can do in
+as many years. Why then, you ask, is this not always done? Why does it
+seem such a difficult business to acquire a familiar knowledge of any
+foreign language, and why is so much brain and so much time spent so
+frequently on their acquisition with such scanty results? The answer
+can be only one: because your teacher has ignored the method of Nature,
+and given you a bad substitute for it in his own devices; instead of
+speaking to you and making you respond, in direct connection of the old
+object with the new sound, and thus forming a living bond between the
+thinking soul, the perceptive sense, and the significant utterance,
+he sends you to a book, there to cram yourself with dead rules and
+lifeless formulas about the language, in the middle of which he ought
+to have planted you at the start. The evil results of this neglect of
+the living model of Nature are only too manifest. Books are useful, but
+they are only secondary; in all matters of observation and practical
+exercise they may form an apt accompaniment or a supplement, but they
+never can supplant the vital function of which they are only the dead
+record. No one learns dancing, or fencing, or golf, or lawn-tennis
+from a book. The evils caused by this unnatural delegation of the work
+of a living teacher to the formulas of a dead book are three: (1) The
+direct connection between the reasonable soul and the new articulate
+sign of the object is lost; the learner does not shake hands, so to
+speak, with the object, but he cumbers himself with the phraseology of
+his mother tongue, and instead of saying at once δός μοι ἄρτον, _give
+me bread_, he must first ask what is _the Greek for bread_. In this
+way the new term remains a stranger to his thought, and he uses it
+uncomfortably, as when a man puts on a pair of shoes which have only
+an occasional acquaintance with his feet. (2) Then again, when, after
+being sufficiently tortured with mere grammatical forms, he acquires a
+certain vocabulary from the elementary reading books, the objects for
+which this vocabulary supplies the new names are seldom the objects
+with which he is familiarly surrounded and in which he has a living
+interest, but they relate to something Julius Cæsar did in Gaul or
+Cicero said in Rome some 2000 years ago, a region of strange sounds,
+in which the linguistic neophyte of this nineteenth century has no
+particular inclination to move, and to which his memory cannot ally
+itself with any feeling of kinship; and he easily forgets the word,
+because he does not care for the thing. But (3) even when he does care
+for the thing, the mere reading of a lesson every day does not in the
+least ensure that frequent repetition of a new vocable in connection
+with an object, on which the familiar knowledge of a language depends;
+whereas, if the teacher had commenced by making his schoolroom an
+echo-chamber of daily repeated sounds in connection with interesting
+and familiar objects directly in the view of the learner or near to
+his daily life, familiarity with a new language, be it Greek or be
+it German, would come as naturally and as pleasantly to a clever lad
+of seventeen as the use of the mother tongue to a dainty girl or a
+rattling boy of seven.
+
+These things being so, and the method of Nature being so plain in the
+matter, we now ask what are the causes that have led so many of our
+teachers, even the most accomplished of their class, to neglect so
+infallible a guide, and to follow methods of linguistic inculcation
+equally unpleasant in the process and unprofitable in the result? These
+causes, fortunately, are as patent as the consequences to which they
+have led. The first cause is ignorance. In not a few of our educational
+institutions it is to be feared there are teachers—an over-worked and
+under-paid class—who are employed to teach languages of which they have
+only a very superficial knowledge and no firm hold. With persons of
+this class the whole process of linguistic training amounts to this,
+_Read your book, Get your lesson, and I will hear you_. Of a living
+appeal from the tongue of the teacher and a living response from the
+tongue of the learner these gentlemen have no conception. They must
+do the most they can, confine themselves within page and chapter of a
+printed book, where they require no knowledge beyond the marked limits
+of the lesson, and where the scantiness of their linguistic furniture
+and the feebleness of their linguistic vitality cannot be exposed.
+Let them pass. But what of the men of high accomplishment, exact
+scholarship, and fine taste: why should they scorn the practice which
+is the foundation of the rules, and the conversation which made great
+speeches and great poems before rules or schools were heard of? Simply
+because they have forgotten the lesson taught in a well-known dialogue
+of Plato,[1] that the printed papers which we call books, useful for
+record, are rather prejudicial than profitable to the culture of
+memory; they have become the slaves of their tools, and defrauded the
+ear and the tongue of their natural rights in the field of significant
+speech by a wholesale transference of their functions to the eyes. The
+scholar, in their conception, is a reading animal, and without books he
+is nowhere. Why then, they will argue, when our object is to read and
+to understand books, should we trouble ourselves with conversation? We
+do not learn Latin in order to talk with Cæsar and Cicero, but to read
+their books; and in like manner we do not study German to drink beer
+and smoke pipes and sing songs with rollicking students in a _kneipe_,
+but to ponder with many-sided thought over the poems of Goethe or the
+speculations of Hegel. So be it. Let books and not living converse be
+the final end of the study of languages; so they certainly are with
+the dead languages; but even with regard to them it is quite certain
+that the familiarity and frequent repetition which are the special
+virtues of the conversational method both render the mastery of books,
+as in the case of the mother tongue, more complete, and the hold of
+the printed signature at once more firm in the grasp and more easy in
+the approach. But some one will say, Does not speaking in a language
+imply thinking in it, and is not thinking in a foreign tongue one of
+the most difficult and rare attainments even with the most accomplished
+linguists? Not at all. The difficulty lies merely in starting from
+the wrong end and following the false direction thus given till it
+culminates in the persistency of a bad habit and the imagination of an
+impossibility. It is as easy to look the Sun in the face and say שׁמּשּׁ,
+SHEMISH, as to say SUN, and there is no more difficulty in saying λαβὼν
+τὸ σκάλευθρον κίνει τὸ πῦρ, than in saying, _take the poker and stir
+the fire_. In both cases the direct connection of _thought_, _thing_,
+and _word_ is equally obvious, equally easy, and equally natural; only
+at the start the habit of thinking exclusively in the mother tongue
+must be broken.
+
+[1] _Phaedrus_, 275 E.
+
+There is one other objection to the conversational method in the
+teaching of languages, viz. that it makes a man a parrot. Well, a
+parrot is an imitative animal, and so is a man, and so far must not be
+ashamed to own his kinship with the plumy prattler. But he is a parrot
+and something more; and this something more every sensible teacher will
+take into account. For myself, I have no preference for random talk:
+my contention is for regulated talk; the talk first and the regulation
+afterwards, in the order of gradation so succinctly stated by Lord
+Bacon—_speaking makes a ready man, reading makes a full man, writing
+makes an accurate man_;—all the three. But have your nails first before
+you pare them; this is the common sense of the matter.
+
+In conclusion, I have a word or two to say with regard to the occasion
+and the plan of this little book. In the first place, whatever may
+be said of Hebrew or Latin, Greek is a living language, and must be
+treated as such even by those who persist in the notion that, while
+the method of living vocal appeal applies in its full extent to
+modern languages, it is certainly out of place in the treatment of
+the two ancient languages which justly claim the first place in the
+linguistic culture of our highest schools. The delusion that Greek
+is a dead language, springing as it does mainly out of our “insular
+ignorance,” as Professor Seeley calls it, and partly, I fear, our
+national insolence, will be dispelled in a moment by a glance at any
+current Greek newspaper; as for instance the following paragraph, the
+first that met my eye, from the 2d November number of the Athenian
+“Ἀκρόπολις,” giving a short notice of the application of Koch’s remedy
+for consumption.
+
+
+                  ΝΕΑ ΚΑΙ ΠΕΡΙΕΡΓΑ.
+
+                 Ἡ φθίσις ἐν Ρωσσίᾳ.
+
+    Ἡ ἀνακάλυψις τοῦ μεγάλου Κὼχ δίδει ἀφορμὴν εἰς τὰς
+    ρωσσικὰς ἐφημερίδας νὰ ἐξετάσωσι πόσοι εἰσὶν οἱ
+    πάσχοντες ἐκ τῆς νόσου ταύτης. Ἐκ τῶν 120,000,000
+    τῶν κατοίκων τῆς Ρωσσίας, ἂν ὑπολογίσῃ τις μόνον
+    5 ἐπὶ τοῖς (0)0 πάσχοντας ἐκ φθίσεως, 6,000,000
+    μόνον Ρῶσσοι ἔχουσι τὴν ἀνάγκην τῆς θεραπείας
+    τοῦ περικλεοῦς καθηγητοῦ. Ὁ ἀριθμὸς εἶνε μάλιστα
+    ἐν τούτοις ἀκριβής. Ἐν Ρωσσίᾳ καὶ ἰδίως εἰς τὰ
+    βορειότερα αὐτῆς μέρη ἡ φθίσις κάμνει μεγίστην
+    θραῦσιν. Ἐν Πετρουπόλει ὡς ἐκ τῆς ἀθλιότητος τοῦ
+    κλίματος καὶ τῆς κακῆς διαίτης τάξεών τινων τῆς
+    κοινωνίας ἡ φθίσις καταστρέφει φρικωδῶς. Ἑν ταῖς
+    οἰκίαις ἀπομεμακρυσμένων τινῶν συνοικιῶν, εἰς
+    οἰκίας εἰς ἃ σπανίως διεισδύει ἀκτὶς ἡλίου βλέπει
+    τις νέας καὶ νέους ὠχροὺς αἱμοπτύοντας καὶ ἐκεῖ εἰς
+    ἀνήλια δωμάτια ἀναμένοντας τὸν θάνατον. Μειδιάσατε
+    δυστυχεῖς· ὁ Κῲχ ἐργάζεται ὅπως ἁρπάσῃ ἀπὸ τὰς χεῖρας
+    τοῦ θανάτου ὅλα αὐτὰ τὰ ἑκατομμύρια τῶν ὑπάρξεων.
+
+Any person who can read classical Greek without a dictionary will
+have no difficulty in understanding this passage; and, if he is
+familiar with the New Testament in the original, he will find that
+some of the principal peculiarities which distinguish the Greek used
+by the living political and public men of Athens, so far from being
+corruptions, are no less distinctive features of the κοινὴ διάλεκτος of
+the Greeks now than they were in the days of the Apostle Paul and the
+Evangelist John. But this is not all. It requires only a superficial
+acquaintance with the most patent facts of Greek literature to know
+that some of the most popular and the most profound teachers of Greek
+wisdom—Plato, Aristophanes and Xenophon—use the conversational style.
+The Greeks, in fact, were, as they are still, a lively and a talking
+people, and Socrates, their greatest name, cannot be better described
+than as a talking street preacher of reason and common sense. Well,
+then, on this double basis that Greek is a living language, and that
+the colloquial style is that in which its highest and best thoughts
+are expressed; and knowing, moreover, by large experience, that the
+most effective way to get a firm grasp of any language is to begin
+by speaking it, some twenty years ago I published a small volume of
+Greek and English dialogues,[2] which I used in my class in as far
+as it was possible to do so in such a multitudinous huddlement of
+untrained lads as the Scottish Universities, contrary to the practice
+of all educated nations, admit into the junior classes of the Faculty
+of Arts. The little book came to a second edition; but that it was
+in anywise generally used by classical teachers I have no reason to
+believe, partly because, of all classes of men, teachers are the most
+closely wedded to old bookish habits, and partly because Scotland is
+not a country to which the world, governed as it is by authority and
+by names, would look for anything worthy of imitation in the Greek
+line: “_Can any good thing come out of Nazareth?_” This, as the world
+goes, was quite legitimate, and gave me no concern. But since that
+time, as a natural consequence of the great educational movement of
+the age, some very distinct voices have come to my ear, to the effect
+that there is something radically wrong in our way of dealing with
+languages, and that the method of teaching by rules and grammar mainly
+can no longer be tolerated. I therefore felt it my duty to appeal a
+second time to the public and to teachers on this important matter, the
+more so that my little book stood too far apart from the educational
+attitude of the teachers, and, if it was to find its way into general
+school use, required a more elementary book as an introduction. This
+elementary book I now send forth under the title of a _Greek Primer,
+Colloquial and Constructive_, indicating by this title that the lessons
+in talking go hand in hand with the grammatical forms naturally educed
+from them, each lesson being regulated talk, according to a natural
+progression from the more simple to the more complex forms in ordinary
+use. This progressive incorporation of the grammar is the feature which
+distinguishes the lessons of this introductory book from the dialogues
+in its predecessor; and the necessity of having constant reference to
+grammatical forms prevented me from giving that unity of subject to the
+dialogue as dialogue which belonged to the previous volume.
+
+[2] _Greek and English Dialogues for the use of Schools and Colleges._
+London: Macmillan, 1871.
+
+I have only further to state, with regard to the use of this little
+primer in the hands of a teacher, that I have no desire that he should
+bind himself slavishly to the text. The scraps of talk that are given
+under each lesson are meant to lend him a helping hand in the use
+of a new organ; and, to enable both teacher and learner to furnish
+themselves with a living vocabulary of Greek words in direct connection
+with their daily surroundings, I have added an alphabetical list of the
+names of the most familiar objects that belong to the field of life
+in town or country where the learner may happen to be. When the young
+Hellenist has stamped its Greek designation directly on every object
+that meets his eyes, and connected it with some single verb that
+belongs to its significance in familiar life, I would then suggest that
+the teacher, besides the daily repetition of certain forms of common
+conversation, should give a _vivâ voce_ description of pictures hung on
+the wall two or three times a week, which the learner shall be called
+on to repeat without any written notes; the principle of the method
+being always to maintain the direct action of the mind on the object,
+through the instrumentality of the new sound, without the intervention
+of the mother tongue. As to when, and how far, and in what kind the
+usual furniture of elementary books of grammar, reading, and exercises
+should go parallel with colloquial practice, this I leave altogether
+in the hands of the practised teacher, being well assured that easy
+reading and accurate writing, so far from being inconsistent with, are
+the natural blossom and the ripe fruit of the root of living utterance
+from which I start.
+
+One other matter requires special notice—a matter not necessarily
+connected with the colloquial method, but which may be wisely used as
+a help. To each lesson I have appended a short list of English words,
+either by family affinity, or by direct borrowing, or by indirect
+borrowing through the Latin, radically identical with the Greek. The
+habit of identifying such words under an English disguise will perform
+the double function of facilitating memory and giving a lesson on the
+transmutation of sounds and meaning, the tracing of which gives so
+peculiar a charm to comparative philology. In Appendix I. I have added
+some of the principles on which these transmutations depend, so far as
+they are suggested by the words used in the text.
+
+But what of the pronunciation? After what has been shown of the living
+continuity of the Greek tongue, from Byzantium downwards to the present
+day, there cannot be the slightest doubt that Greek orthoepy should
+be treated in the same fashion that the orthoepy of French, German,
+or any other living tongue is treated. The pronunciation is ruled by
+the practice of the present, not by philological facts or fancies as
+to the pronunciation of the past. No doubt, as Heraclitus says, πάντα
+ῥεῖ, _all things flow_, as in the universe, so in language, there is
+no fixation—there is always change. But the changes which take place
+in living languages, like English or Greek, are of a very different
+kind from those which take place when a language like Latin becomes
+dead, and rises to a new life in the form of such specific varieties
+as Spanish, Italian, and Portuguese. They are of the nature of a
+normal growth, and are at all events only exaggerations or expansions
+of a native tendency. To such exaggerations every spoken language is
+subject, and few more than our insular English, as any one may see who
+will compare the accentuation of English in the time of Chaucer with
+the orthoepy of the present hour. But in respect of accents at least
+Greek has been far more conservative than English, so much so indeed
+that the accentual marks placed on Greek words by the Alexandrian
+grammarians two hundred and fifty years before Christ, in the practice
+of the Greek Church and the Greek people still indicate the same
+dominance of voice on the accented syllable that the Athenian ear
+recognised as classic in the orations of Demosthenes and the apostolic
+eloquence of St. Paul. There can therefore be no greater barbarism than
+to disown this legitimate music of Greek speech, as is done both in
+England and Scotland, when we pronounce ἀγαθὸς ὁ θεός, like Latin or
+English, ἄγαθος ὁ θέος; not to mention the staring absurdity and loss
+of brain implied in the practice of the great English schools of first
+pronouncing the word with a false accentuation, and then stultifying
+the daily practice of the ear by learning a rule to say where the
+accent ought to have been placed! Nothing could more distinctly
+show the falseness of our habit of flinging the burden of learning
+languages on formulas of the understanding and leaving the living organ
+of linguistic practice altogether out of account. Therefore, by all
+means, either drop the accents out of the grammar, or use them whenever
+you give the written word voice in the air. As to the quantity of
+the vowels, which is the stumbling block with most English scholars,
+we have no lack of words, even in our own unmusical English, such as
+_lándholder_, in which, as in the Greek ἄνθρωπος, the antepenultimate
+has the rising inflexion, while the penult is long; and if the modern
+Greeks pronounce ἄνθρωπος as if written ἄνθροπος, that is only a
+natural curtailment of the unaccented syllable which lies in the nature
+of human speech, and will be found exemplified more or less in all
+languages. As to the vocal value of the separate vowels and consonants,
+this, no doubt, is a point in some cases of considerable difficulty;
+but it is quite certain that _a_, both in Latin and Greek, has the
+broad sound as in Italian and Scotch, not the sound of the English in
+_pātent_, that ι is the most slender of the vowel sounds, not the broad
+semi-diphthongal sound of the English in _prime_ or _sigh_, that ου
+has the soft sound of _oo_ in _boom_, not the _bow-wow_ sound of _ou_
+as in _howl_; also that αι in all probability was pronounced as in the
+English _vain_, not as in the German _Kaiser_. On the whole matter
+of pronunciation, however, the English scholar should bear in mind
+that the poetry of the ancients was composed on musical principles,
+with a strict regard to the quantitative value of the vowel on which
+the rhythmical accent fell, a practice which necessarily caused the
+spoken accent to be dropped in verse, or very much subordinated;
+and again, if his ear should happen to be very much offended by the
+predominance of the slender sound of ι in the familiar πολυφλοίσβοιο
+θαλάσσης of Homer, there is no reason why he should not adopt a special
+vocalisation for the reading of the Greek poets, just as we in our
+reading of Chaucer must constantly put a final accent on words that,
+if applied to the spoken tongue, would render the speaker either
+ridiculous or unintelligible. But in whatever fashion the teacher of
+Greek in this country may choose to settle this delicate point, the
+matter of pronunciation has nothing radically to do with the great
+principle of linguistic practice which this little book inculcates. To
+start with the practice of speaking will facilitate the acquisition
+of a new language under any system of pronunciation; only this must
+distinctly be said, that the scholar who has learned to read Greek with
+a vocalisation and an accentuation invented by himself for himself has
+deliberately cut himself off from all intelligible communion with the
+people whose literary tradition he values so highly, and with whom to
+maintain a familiar intercourse, both in a political and a literary
+point of view, should be no secondary consideration with the wise.
+
+In conclusion, I have great pleasure in returning thanks to the learned
+Hellenists who kindly undertook the task of revising the proofs of
+this little work as they came from the press, viz. Mr. Hardie, Balliol
+College, Oxford; Principal Geddes, Aberdeen; Principal Donaldson, St.
+Andrews; and Mr. Gardiner, Edinburgh Academy; and if I have not in
+every instance taken advantage of their suggestions, it is because on
+principle I have no sympathy with the nice sensibility which refuses
+the stamp of classicality to all forms and idioms unsanctioned by the
+usage of Attic writers, preferring to float my skiff freely on the
+great Catholic Greek of all ages, from Plato to Polybius, from Polybius
+to Chrysostom, and from Chrysostom to Thereianos and Paspati.
+
+EDINBURGH, _April_ 1891.
+
+
+
+
+CONTENTS
+
+
+                                                   PAGE
+
+      THE GREEK LETTERS                               3
+      NOTES                                           5
+      ACCENTUATION AND QUANTITY                       7
+
+    LESSON
+         I.—Nouns: Nominative and Objective Case,
+                    First and Second Declension;
+                    Verbs: Three Persons
+                    Singular, Present Indicative     12
+        II.—Cases, Genitive and Dative               15
+       III.—Plurals, Numerals, Diminutives           17
+        IV.—Third Declension, Singular               19
+         V.—Third Declension, Plural                 25
+        VI.—Degrees of Comparison in Adjectives      26
+       VII.—The Future Active                        28
+      VIII.—The Past Tense                           30
+        IX.—Infinitive Mood and Participles          33
+         X.—The other Past Tenses                    35
+        XI.—Verbs in μι                              38
+       XII.—Compound Verbs                           40
+      XIII.—Moods: Subjunctive and Conditional       42
+       XIV.—The Optative Mood                        44
+        XV.—The Particle ἄν                          47
+       XVI.—The Passive Voice                        48
+      XVII.—The Middle Voice                         51
+     XVIII.—Participles                              53
+
+    APPENDIX
+       I.—Elementary Hints on Etymology              55
+      II.—Vocabularies                               57
+
+
+
+
+THE ALPHABET
+
+ACCENT AND QUANTITY
+
+
+
+
+THE GREEK LETTERS
+
+
+The Greek letters, borrowed as they were from the East and adopted by
+the Romans, are substantially the same as the Roman letters of our
+common English usage, and in fact differ from them both in figure and
+power scarcely more than our present English type differs from the old
+English black letter or the common German type. A few remarks will
+suffice to show where or how far the pronunciation varies from our
+English use of the same letters.
+
+    Greek                        English
+    Figures.     Names.          Figures.
+
+    Α, α        ἄλφα    alpha        a
+    Β, β, ϐ      βῆτα     bêta       b
+    Γ, γ, ⲅ      γάμμα    gamma      g
+    Δ, δ        δέλτα    delta       d
+    Ε, ε        ψῑλόν    epsilon     e
+    Ζ, ζ,       ζῆτα     zêta        z
+    Η, η        ἦτα      êta         ee
+    Θ, θ, ϑ      θῆτα     thêta      th
+    Ι, ι        ἰῶτα     iôta        i
+    Κ, κ        κάππα    kappa       k
+    Λ, λ        λάμβδα   lambda      l
+    Μ, μ        μῦ       mu          m
+    Ν, ν        νῦ       nu          n
+    Ξ, ξ        ξῖ       xi          x
+    Ο, ο        μῑκρόν   omikron     ŏ
+    Π, π        πῖ       pi          p
+    Ρ, ρ        ῥῶ        rho        r
+    Σ, σ, ς     σῖγμα     sigma      s
+    Τ, τ, ך     ταῦ       tau        t
+    Υ, υ        υῑλόν    ’upsilon    u
+    Φ, φ        φῖ        phi        f _or_ ph
+    Χ, χ        χῖ        chi        ch
+    Ψ, ψ        ψῖ        psi        ps
+    Ω, ω        ὦ μέγα    omega      ō
+
+
+
+
+NOTES
+
+
+    Α is always the broad _a_ (=ah) of all European
+        languages, and never softened down to the English
+        _ā_, as heard in _pātent_, _nátion_.
+
+    Β in the spoken Greek of the present day is softened
+        down to the cognate _v_, exactly as in Gaelic _b_
+        with the _h_ appended becomes _v_, as _ban_, fair,
+        with _h_, _bhan_ = _van_.
+
+    Γ, when followed by the broad vowels _a_ and _o_,
+        is pronounced hard as in English and Gaelic; but
+        when followed by soft vowels the _Greeks_ now
+        give it the sound of the English _y_ in _yes_,
+        _yellow_—γέλως, γέρων,—just as in German the _g_ in
+        the third syllable of _Göttingen_ is so softened
+        down as almost to disappear.[3] This euphonic
+        action of a weak vowel upon a strong consonant
+        preceding is natural and found in most languages;
+        exactly as the Italians in their soft dialect of
+        Latin have changed Κικέρων into _Chichero_, _ch_
+        being pronounced as in the English _church_.
+
+        Before κ, γ, χ and ξ, the letter γ has the sound
+        of _n_, as in ἄγγελος, in Latin _angelus_, English
+        _angel_.
+
+    Δ, or D, is in like manner softened into _th_ as in the
+        English _mother_; thus δέν _not_, from οὐδέν,
+        pronounced οὐθέν.
+
+    Ε is our short _e_, as in _get_; never long _ē_.
+
+    Η, or ἦτα, was in ancient times always a long _ē_,
+        English _ā_ as in _gate_; now it is always _ee_
+        as in _seem_ or _theme_.
+
+    Θ is the English _th_, as in _mouth_, _south_.
+
+    Ι is always the slender English _ee_, either short as
+        in _peep_ or long as in _scēne_.
+
+    Ξ is _ks_, _gs_, contracted into _x_.
+
+    Υ, from which our _y_ came, was in ancient times
+        identical with the delicate _ü_, _ue_, of the
+        Germans, halfway between οὐ = _oo_ and _ee_, into
+        which in the living language it is always softened,
+        exactly as in some parts of Germany _Brüder_ is
+        pronounced _Brēēder_.
+
+    Χ is an aspirated _k_, but pronounced like _milch_ in
+        German or _loch_ in Scotch, which the English,
+        who do not possess this beautiful soft guttural,
+        generally sharpen into a _k_, as in _lake_.
+
+    Ω, omega, as the name indicates, is simply a long _o_,
+        as in πῶλος, _a foal_.
+
+        For the English _h_ the Greeks used a simple mark
+        of aspiration turned to the right thus, ἱερός
+        _sacred_, pronounced _hee-er-ŏs_, while the
+        same mark turned to the left, as in ἔρως, simply
+        signifies the absence of the _h_. Whether this
+        _spiritus lenis_, as it is called, was put on
+        the initial vowel to indicate the presence of an
+        original _h_ which had vanished, I cannot say; but
+        one can readily fancy that if the Cockney fashion
+        of calling Highgate _Igate_ were to become general,
+        every such curtailed word might receive a mark
+        thus, _’igate_, as the survival of a lost breathing.
+
+        Besides the vowels in the alphabet we find in
+        Greek, as in other languages, compound vowel sounds
+        called diphthongs. They are seven—αι, ει, οι, αυ,
+        υι, ευ and ου. Their ancient pronunciation is very
+        difficult to expiscate, and in them we note the
+        partiality of the Greeks for the slender sound of
+        _ee_, called by a Latin writer _gracilitas_, and
+        by modern scholars _itacism_. This tendency has
+        wiped off the diphthongal character altogether
+        from οι, υι, and ει, which are all pronounced
+        like a single ι, English _ee_. To balance this,
+        αι becomes the English _ai_, as in _vain_; ου
+        retains its full soft roundness as in _gloom_;
+        while in αυ and ευ in the living Greek the υ has
+        assumed a consonantal value and become _v_, from
+        which usage the εὐαγγέλιον of the Gospels has
+        become the _evangelium_ of the Latin Church, and
+        the _evangel_ of English; so αὐλός, _a flute_, is
+        pronounced _avlóss_, and this _v_ is aspirated into
+        the kindred _ƒ_, when the following consonant is
+        κ, π, τ, θ, χ, ξ, σ, or ψ, as in αὐτός, _aftos_,
+        εὔξεινος, _efxeinos_. That the ancients, at least
+        in poetry, did not do this is evident from the full
+        diphthongal value of a long sound given to the
+        εὐ in εὐαγής and such-like words by the dramatic
+        writers.
+
+[3] See Zampolides’s _Modern Greek_. London, Williams and Norgate,
+1887.
+
+
+
+
+ACCENTUATION AND QUANTITY
+
+
+In respect of accentuation the Greek language has the advantage above
+most others that, while in Latin, English, or German the proper
+intonation of a word in doubtful cases can only be known by an appeal
+to a dictionary or to an authoritative speaker, in Greek every word
+in a book, as it stands before the eye, exhibits and perpetuates the
+tonic relation of the syllables to one another. The student has but
+to observe the rise or fall of the syllables on his page as he would
+do the notes in a piece of music, and he cannot go wrong. Only a few
+characteristic points require to be laid down to make the principle on
+which the practice depends intelligible.
+
+The word _accent_, taken from the Latin grammarians, evidently
+signifies a certain music of speech, a singing to or with (_ad_ and
+_cano_) an articulate word; while the expression used by the Greek
+grammarians, τόνος from τείνω, indicates a stretch, stress, or
+intension of the voice on the syllable so affected. Taking these two
+elements together we see that a Greek word, say καλός, _beautiful_,
+with the mark of the acute accent on the last syllable—hence called
+oxytone, from ὀξύς, _sharp_—is pronounced with an elevation of the
+voice, which brings along with it a dominance of the syllable on which
+it stands above the other syllables with which it is connected. It
+stands to reason that after such a dominance given to one syllable
+the voice, if there be a subsequent syllable, will fall; and so, as
+in πραγμάτων, the final syllable will be pronounced in a lower tone
+which is called grave. In the general use this lower-toned syllable
+requires no special mark, being sufficiently indicated by its necessary
+subservience to the accented syllable; with the Greeks, however, it
+seems to have been the practice to pronounce an oxytone word, when it
+occurs in the middle of a sentence, in a lower tone than at the end,
+and so the word καλός in the middle of a sentence, as in καλὴ παρθένος,
+is marked with a grave accent from left to right instead of from
+right to left; but this, though it lowers the tone, does not affect
+the dominance of the syllable. It is just as if in music the same
+note, with the same rhythmical dominance, were sung an octave lower.
+Practically, the learner need not concern himself curiously about the
+matter.
+
+It is a rule, both in Greek and Latin, that no word can be accented
+farther back than the third syllable from the end, the antepenultimate,
+the favourite accent of the English language. But, while this rule,
+in a musical point of view, preserves the language from such a
+rattle of insignificant sounds as in _lámentable_, _mílitary_, and
+not a few other quadrisyllables in our unmusical English tongue, it
+manifestly requires a correction from the side of penultimate and
+oxytone accentuation to achieve the just balance of the music of
+speech. In this respect Greek is decidedly superior to both Latin
+and English; for, while Latin rejects the sonorous cadence of the
+accent on the last syllable altogether, English uses it only in some
+verbs, remnants of the past participle of Latin verbs, as in _rejéct_,
+_suppóse_, _accépt_, and such-like; and in the case of the penult the
+fine swelling cadence of the Greek words, in which the acute accent
+of the penult is followed by a final long syllable, altogether fails,
+as in πραγμάτων, which an Englishman, following his English ear,
+will pronounce not only πράγματων but πράγματον, as if ω were ο. The
+student, therefore, will carefully train his ear to give all oxytone
+words their full value, and never to say ἄγαθος ὁ θέος instead of
+ἀγαθὸς ὁ θεός, or κάλος ὁ ἄνηρ for καλὸς ὁ ἀνήρ.
+
+By the quantity of a word we mean the comparative duration of the
+sound, exactly as in music a [symbol: minim] is related to a [symbol:
+quaver]; and in Greek the accentuation stands in a very marked relation
+to the quantity of the syllables, which in practice asserts itself
+prominently as follows:—
+
+    (1) It is an invariable condition of the
+    antepenultimate accent that the last syllable be
+    short, as in ἄνθρωπος, a man; and in consequence,
+
+    (2) If in the course of flexion a word with an
+    antepenultimate accent takes a long final vowel, as
+    in the genitive and dative singular of the second
+    declension, the accent of the first syllable is
+    advanced to the penult, as in ἀνθρώπου.
+
+    (3) The converse takes place in verbs, where the
+    accent is naturally on the root, as in λέγω, of
+    which the imperfect is ἔλεγον; but in the aor. mid.
+    indic., while the third person is ἐλέξατο, the
+    first person is not ἐλέξαμην, but ἐλεξάμην.
+
+A long syllable of course, as in προφήτης, may have an acute accent on
+a long vowel with the same right as a short syllable; but there are
+many long syllables in Greek which are marked neither with an acute nor
+a grave but with a circumflex, which is a prolonged accent compounded
+of a rise and a fall marked thus ^, or for greater ease, ~. These words
+are generally compounds of which the elements are quite plain, as in
+φιλοῦσι for φιλέουσι, τιμῶσι for τιμάουσι; in other words, as in σῶμα,
+a body, or the genitive plural of the first declension, as πολιτῶν, and
+some others, the single elements from which the complex tone arose were
+either historically known to the grammarians or legitimately assumed.
+At all events, every syllable in Greek with a circumflex accent is
+practically treated as if it had two accents; σῶμα as if it were σάὸμα,
+χρῶμα as χρόὰμα, πρᾶγμα as if it were πράὰγμα, and so on. It follows
+from this, and the principle that no word can be accented farther back
+than the antepenultimate, that, if in the course of flexion a word
+with a circumflex on the penult receives an additional syllable so
+as to become, in accentual value, a quadrisyllable, the accent must
+be advanced; thus from τιμῶμαι,[4] I am honoured, we can say τιμᾶσθε
+in the second person plural, but we cannot say τιμῶμεθα, so must say
+τιμώμεθα. The change of accentual marking in this instance is of no
+practical value to the student, but in the case of enclitics, of which
+we shall now speak, it affects the ear most decidedly.
+
+[4] Final αι and οι for accentual purposes are pronounced short in the
+terminal flexions of nouns and verbs—τέτυμμαι, ἄνθρωποι, τράπεζαι.
+
+Enclitics are small words, which, so to speak, have not force enough
+to stand on their own legs, but lean (ἐγκλίνω) on the weightier word
+that precedes them for support, and become absorbed in it; just as
+in English we say _don’t_ for _do not_, and in Italian _dimmi_ for
+the Latin _dic mihi_. These enclitics are πού, ποτέ, γε, and a few
+others, the oblique cases of the personal pronouns, the indefinite
+pronoun τις, and the verbs εἰμί, _I am_, φημί, _I say_, except in the
+second person singular. The effect of their being thus taken up by
+the previous word and forming a new whole must, in not a few cases,
+materially affect the position of the accent; for, while in καλός τις,
+_a certain good-looking fellow_, there is no change in the intonation
+of καλός to the ear, the moment I say κάλλιστος τις, I either violate
+the rule which forbids the accent on the fourth syllable from the end,
+or I keep to the rule and say κάλλιστός τις. In the same way when I
+say ὁ διάβολος, _the devil_, simply, I preserve the antepenultimate
+accent with full effect in its natural place; but if I apply the
+reproachful term to a special person, and say, as in John vi. 70, ἐξ
+ὑμῶν εἷς διάβολός ἐστιν, _one of you is a devil_, I immediately, to
+give the ἐστιν something to lean on, must make the διάβολος oxytone.
+Similarly, I cannot write πνεῦμα ἔστιν, which in accentual value would
+be a compound word of five syllables, but I must say πνεῦμά ἐστι
+(John vi. 63), when the last syllable of the supporting word with the
+two syllables of the enclitic become accentually a new word of three
+syllables with a legitimate antepenultimate accent.
+
+If the position of the accent, a point often not a little troublesome
+even to natives in the orthoepy of their own language, has been
+relieved of all practical difficulty by the curious prevision of
+the Alexandrian elders, the quantity is even more simple. With the
+double aid of the two separate signs for long vowels, η and ω, and
+the quantity of the final vowel as determined by its relation to the
+previous accented syllables, the only difficulty that remains is
+obviated by the mark ¯ over the long vowels, and the ◡ over the short
+ones found in all good dictionaries. In the present little work it
+will be sufficient to mark the long vowel where it occurs in doubtful
+cases, and leave the short ones to be understood as short from the
+absence of the long mark. But the real difficulty that prevents both
+accent and quantity from being easily acquired by English scholars
+is the negligent practice of transferring Latin or English habits of
+accentuation to Greek words, as when θεός is pronounced like _Déus_,
+and Σωκράτης as _Sócrates_, and again the supposition that the accent
+cannot be put on a syllable without making it long, or removed without
+making it short. Let only the honest attempt be made to pronounce
+ἄνθρωπος, not as _anthroāpos_, but as in _lándhōlder_, _córndēaler_,
+and other such words, and the α in Σωκράτης, not like _a_ in _claw_ or
+_maw_, but like the _a_ in _lattice_ and _scatter_, and the difficulty
+will vanish like the gleam of a mirage before the firm foot and the
+cool eye of the traveller.
+
+
+
+
+LESSON I.—NOUNS
+
+NOMINATIVE AND OBJECTIVE CASE
+
+FIRST AND SECOND DECLENSION
+
+VERBS
+
+THREE PERSONS SINGULAR, PRESENT INDICATIVE
+
+
+A noun is the name of a thing or person, a verb signifies an action, an
+adjective a quality as good or bad belonging to a noun. The nominative
+case is the person who is or may be doing what the verb means; the
+objective case is the thing or person to which or towards which the
+action of the verb tends. The verb _to be_, denoting simple existence,
+not action, of course is followed by the nominative, not the objective
+case.
+
+Nouns are masculine, feminine, or neuter.
+
+    Masculines generally end in ος.
+    Feminines in η or α, a few in ος—ὁδός, _a way_,
+        βίβλος, _a book_, παρθένος, _a maiden_.
+    Neuters in ον.
+
+The objective case ends in ν, the ν being added to the termination of
+feminines, and substituted for the ς in masculines. In neuters the
+nominative and objective are the same. Adjectives follow the same rule.
+
+Verbs: first person ends in ω, second in ς, and third in ει or ᾳ, as—
+
+      ὁρῶ,   ὁρᾷς,    ὁρᾷ,    _I see,   thou seest, he sees_.
+      ἀκούω, ἀκούεις, ἀκούει, _I hear_, etc.
+
+    So—
+
+            θαυμάζω, _I wonder_.
+            μῑσῶ,    _I hate_.
+            φιλῶ,    _I love_.
+            ἔχω,     _I have_.
+
+USEFUL IMPERATIVES
+
+    φέρε, _bring_.
+    δός,  _give_.
+    ἰδοῦ, _behold! here!_
+
+The article _the_ is declined masculine, feminine, and neuter like the
+nouns, thus—
+
+     ὁ       ἡ      τὸ
+    τὸν     τὴν     τὸ
+
+It never has α in the feminine.
+
+The verb _to be_, εἰμί, has second person εἶ, third ἐστί, or before a
+vowel ἐστίν, and in plural ἐσμέν, ἐστέ, εἰσί.
+
+The pronouns of the first and second persons are—
+
+     ἐγώ      μοῦ, ἐμοῦ   μοῖ, ἐμοί   μέ, ἐμέ
+     _I        of me      to me       me_
+
+     σύ        σοῦ         σοί        σέ
+    _thou     of thee     to thee     thee_
+
+    λαμπρός ἐστι ὁ ἥλιος, _the sun is bright_.
+    καὶ καλὴ ἡ ἡμέρα, _and the day beautiful_.
+    ὁρᾷς τὸν ἥλιον; _do you see the sun?_
+    ὁρῶ νεφέλην, _I see a cloud_.
+    νεφέλην στυγνὴν ὁρῶ, _I see a dark cloud_.
+    ὁρᾷς τὸν καπνόν; _do you see the smoke?_
+    ὁρᾷς τὸν οὐρανὸν τὸν κυανοῦν; _do you see the blue sky?_
+    ἀκούεις τοῦ ποταμοῦ; _do you hear the river?_
+    ἀκούεις τῆς βροντῆς; _do you hear the thunder?_
+    θαυμάζεις τὸ δένδρον τόδε τὸ ὑψηλόν; _do you admire this tall tree?_
+    θαυμάζω καὶ μ́ᾰλα γε, _I admire it extremely_.
+    ὁρᾷς τὸ ῥόδον τοῦτο τὸ καλόν; _do you see this beautiful rose?_
+    καὶ τὸ λείριον τὸ λευκόν; _and the white lily?_
+    καὶ τὴν πόαν τὴν χλωράν; _and the green grass?_
+    καλός ἐστιν ὁ κῆπος, _the garden is beautiful_.
+    καὶ σοφὸς ὁ κηπουρός, _and the gardener wise_.
+    ὁρῶ ἄκανθαν, _I see a thistle_.
+    κᾰκόν, κᾰκόν, _bad, bad!_
+    αἰσχρόν, αἰσχρόν, _ugly, ugly!_
+    μῑσῶ τὴν κακὴν ἄκανθαν, _I hate the ugly thistle_.
+    φιλῶ τὸ ῥόδον τὸ καλόν, _I love the lovely rose_.
+    μῑσεῖς τὴν ἀκαλήφην; _do you hate the nettle?_
+    μάλιστα, _certainly_.
+    σφοδρός ἐστιν ὁ ἄνεμος, _the wind is strong_.
+    φιλῶ τὴν σκιάν, _I love the shade_.
+    καὶ τὴν σκέπην, _and the shelter_.
+    φέρε τὴν τράπεζαν, _bring the table_.
+    ποῦστι ὁ πέτασος ὁ ἐμός; _where is my hat?_
+    δός μοι τὸν πέτασον, _give me the hat_.
+    φιλῶ πῖλον ἐγώ, _I love a cap_.
+    κ́ῑνει τὸ πῦρ, _or_ τὴν ἐσχάραν, _stir the fire_.
+    δός μοι τὸ σκάλευθρον, _give me the poker_.
+    ἔχεις πυράγραν; _have you tongs?_
+    ἰδοῦ, _there_.
+    ὁρᾷς τὸ κάτοπτρον; _do you see the mirror?_
+    ἔχεις ἕδρᾱν; _have you a seat?_
+    ἔχεις ὑποπόδιον; _have you a footstool?_
+    ἔχεις κλ́ῑνην; _have you a sofa?_
+    δός μοι τὴν βακτηρίαν, _give me my stick_.
+    τὸ παιδίον τόδε τίς ἔστι; _who is this little boy?_
+    ὁ ἀδελφὸς ὁ ἐμός, _my brother_.
+    ἔστι σοι ἀδελφή; _have you a sister?_
+    φιλῶ δεῖπνον, _I love dinner_.
+    ἔχεις ἄρτον καὶ βούτῡρον; _have you bread and butter_?
+    καλὸν τὸ ἀργυροῦν ποτήριον τοῦτο, _this silver cup is beautiful_.
+    φέρε τὸ καλαμάριον, _bring the inkstand_.
+    λάβε, _take it_.
+    οὐχ ὁρῶ κάλαμον, _I do not see a pen_.
+    ἰδοῦ, _here_.
+    χάριν ἔχω, _thanks_.
+    δός μοι χειρόμακτρον, _give me a napkin_.
+    ἔτι δὲ τοῦ σάπωνος, _and some soap_.
+    ἰδοῦ σάπωνα τὸν τοῦ Πεαρσίου, _here it is, Pears’ soap_.
+    θεῖον πάνυ χρῆμα τοῦ καθαρτικοῦ, _a splendid cleanser!_
+    νῦν δὴ λευκαί μοι αἱ χεῖρες ὥσπερ ἡ χιών. Ἔρρωσο.
+    _now my hands are white as snow. Farewell_.
+
+
+ENGLISH AFFINITIES
+
+Panorama. Lamp. Heliotrope. Calisthenics. Ephemeral. Urania. Acoustics.
+Thaumaturgy. Rose. Lily. Chlorine. Sophist. Cacophony. Misanthrope.
+Democrat. Animation. Philanthropy. Fire. Optics. Ophthalmia. Cathedral.
+Clinical. Philadelphia. Adelphi Court. Soap. Chiromancy. Cathartic.
+
+
+
+
+LESSON II
+
+CASES, GENITIVE AND DATIVE
+
+
+The genitive case signifies the source _from_ which a thing comes and
+to which it belongs, as the _folly of fools_, the _fool’s folly_,
+the folly that comes from the fool. The dative case means either the
+secondary or more distant object of an action, as _I gave the book
+to the boy_; or it _signifies rest_ or _residence in a thing_, for
+which in English there is no special form; also in Greek it signifies
+the instrument with which, or by which, a thing is done, as to _cut_
+with a _knife_. In Greek masculines in ος have the genitive in ου and
+the dative in ῳ; feminines in ρᾱ or ρᾰ and ίᾱ have the genitive in ας
+and the dative in ᾳ; other feminines in α—as τράπεζᾰ, _a table_—and
+feminines in η have ης in the genitive and ῃ in the dative.
+
+    ὁρῶ νεφέλην ἐν τῷ οὐρανῷ, _I see a cloud in the sky_.
+    θαυμάζω τὴν σοφίαν τὴν ἐν τῷ σῷ ἀδελφῷ, _I admire the wisdom that
+          is in your brother_.
+    δὸς τῷ ἀδελφῷ τὸν κάλαμον τόνδε, _give your brother this pen_.
+    καὶ τὸ καλαμάριον, _and the inkstand_.
+    ὁ ἀδελφὸς ὁ σὸς θαυμάζει τὸ λευκὸν ῥόδον τὸ ἐν τῷ κήπῳ,
+          _your brother admires the white rose in the garden_.
+    ἀκούεις τῆς τοῦ ποταμοῦ βροντῆς; _do you hear the thunder
+          of the river?_
+    ἡ βία τοῦ ἀνέμου ταράττει τὸν κῆπον, _the violence of the
+          wind disturbs the garden_.
+    καὶ τόν γε πέτασον ἐπὶ τῇ ἐμῇ κεφαλῇ, _yes, and the hat
+          on my head_.
+    κ́ῑνει τὸ πῦρ τῷ σκαλεύθρῳ, _stir the fire with the poker_.
+    ὁρᾷς τὴν ἕδραν τὴν τοῦ ἐπισκόπου; _do you see the bishop’s seat_?
+    ἰσχυρός ἐστι· ἐσθίει τὸν τῶν πονούντων ἄρτον, _he is strong;
+          he eats the bread of labour_.
+    δός μοι τὸν κάλαμον τὸν τοῦ ἀδελφοῦ, _give me your brother’s pen_.
+    φέρε τὸ καλαμάριον τὸ τῆς ἀδελφῆς, _bring your sister’s inkstand_.
+    κόπτε τὸν κάλαμον τῇ μαχαίρᾳ, _cut the pen with the knife_.
+
+
+ENGLISH AFFINITIES
+
+Bishop. Kinetics. Seat. Cathedral. Hydrocephalus.
+
+
+
+
+LESSON III
+
+PLURALS, NUMERALS, DIMINUTIVES
+
+
+The plural of verbs is in ομεν, ετε, and ουσι for the three persons. In
+pure verbs αομεν becomes ῶμεν, ᾶτε, and ῶσι; ε becomes οῦμεν, εῖτε, and
+οῦσι.
+
+The plural of nouns in ος is in
+
+    οι,  nominative.
+    ων,  genitive.
+    οις, dative.
+    ους, objective.
+
+Neuters have nominative and objective α.
+
+The plural of feminines is in
+
+    αι,  nominative.
+    ῶν,  genitive.
+    αις, dative.
+    ᾱς,  objective.
+
+The relative pronoun, ὅς, ἥ, ὅ, _who_, _which_, is declined all
+through, like masculine nouns in ος, and feminines in η, and neuters in
+ον.
+
+The numerals are—εἷς, μία, ἕν; δύω, τρεῖς, τέσσαρες, πέντε, ἕξ, ἑπτά,
+ὀκτώ, ἐννέα, δέκα, in their order; εἴκοσι, _twenty_; ἑκατόν, _a
+hundred_; χίλιοι, _a thousand_; μύριοι, _ten thousand_.
+
+Diminutives are mostly neuter, ending in άριον, ίον, and ύλλιον: as
+ἵππος, _a horse_—ἱππάριον, _a pony_; παῖς, _a boy_—παιδίον, _a little
+boy_; βρέφος, _a babe_—βρεφύλλιον, _a little babe_. Masculine is ίσκος,
+as παιδίσκος, _a young boy_, with feminine παιδίσκη, _a little girl_.
+
+The adjective πολύς, _many_ (German _viel_), is declined in the
+nominative—
+
+                   πολύς πολλή πολύ
+
+    and objective—
+
+                   πολύν πολλήν πολύ
+
+otherwise regularly, as if from πολλός-ή-όν.
+
+It is a peculiarity of Greek syntax that neuter plurals are joined
+with a singular verb, as καλῶς ἔχει τὰ πράγματα, _matters are going on
+well_.
+
+γράφομεν καλάμῳ, ὁρῶμεν τοῖς ὀφθαλμοῖς, _we write with a pen, and see
+with our eyes_.
+
+τὴν ἐπιστολὴν ἥν σοι γράφω δὸς τοῖς ἀδελφοῖς, _the letter which I write
+for you give to your brothers_.
+
+πόσους ἔχεις ἀδελφούς; _how many brothers have you?_
+
+ἕξ, ἀδελφὰς δὲ ἑπτά, _six, and seven sisters_.
+
+δεινὰ ταῦτα, _that is too bad!_
+
+πόσα ἔχεις ῥόδα ἐν τῷ πετάσῳ; _how many roses have you in your hat?_
+
+δώδεκα, λείρια δὲ ἕξ, _twelve, and six lilies_.
+
+πόσους ἔχει ἵππους ὁ ἀδελφός; _how many horses has your brother?_
+
+τρεῖς, _three_.
+
+ὁρᾷς τοὺς κύκνους καὶ τοὺς γεράνους ἐν τῇ λίμνῃ; _do you see the swans
+and the cranes in the loch?_
+
+ὁρῶ, δεινὸν τὸ πλῆθος, _yes, a very great number_.
+
+καὶ δὴ καὶ τρεῖς μόσχους κομψοὺς ἐν τῷ ἀγρῷ; _also three pretty calves
+in the field?_
+
+ἔτι δὲ ἱππάριον, κόσμιον, βαλιόν; _also a neat little piebald pony?_
+
+τί γελᾷς; _what are you laughing at?_
+
+ἐκεῖνο τὸ παιδίον ἱππαζόμενον ἐπὶ τοῦ ἱππαρίου, _that boy riding on the
+little pony_.
+
+καὶ δὴ καὶ τρέχει ὀπίσω ἡ παιδίσκη ἡ κομψή, _and behind runs the pretty
+little girl_.
+
+τερπνὸν τὸ θέαμα, _a pleasant sight_.
+
+ὁ θαυμαστὸς οὑτοσὶ δύο ὁρᾷ ἡλίους ἐν τῷ οὐρανῷ, ἡμεῖς δὲ ἕνα μόνον
+ὁρῶμεν, _this strange man sees two suns in the sky; we see only one_.
+
+μῑσοῦμεν τὴν φωνὴν τοῦ μωροῦ, _we hate a fool’s voice_.
+
+τοῦ δὲ σοφοῦ φωνὴν φιλοῦμεν, _but we love the voice of the wise man_.
+
+οἱ ἀστρονόμοι πολλὰ ὁρῶσι τοῖς τηλεσκοπείοις ἃ ἡμεῖς οὐχ ὁρῶμεν, _the
+astronomers see many things with their telescopes which we do not see_.
+
+πολλὰ μὲν ἔχει δένδρα ἡ ὕλη, λόγους δὲ πολλοὺς ἡ τῶν μωρῶν γλῶσσα,
+_there are many trees in the forest, and many words in a fool’s
+tongue_.
+
+πολλὰς κόπτομεν ἀκάνθας ἐν τοῖς ἀγροῖς, _we are cutting down many
+thistles in the fields_.
+
+καὶ οὐκ ὀλίγας, ὡς ἐλπίζω, ἀκαλήφας, _and not a few nettles also, I
+hope_.
+
+ἃς σὺ μῑσεῖς, ἀκαλήφας, _the nettles which you hate_.
+
+δικαίως ἔγωγε, πάντες γὰρ μῑσοῦσιν τὰς ἀκαλήφας τὰς κακάς, _with good
+reason too. All hate the evil nettles_.
+
+τί πράττετε; _what are you about?_
+
+γράφομεν ἐπιστολάς, _we are writing letters_.
+
+ἐπιστολὰς λέγεις; _do you say letters?_
+
+καὶ μάλα γε, πρὸς τὴν βασίλισσαν, _yes, to the queen_.
+
+θαυμαστὰ λέγεις, _wonderful!_
+
+ἀγαθὴ ἡ βασίλισσα, καὶ πρὸς τὰς εὐχὰς οὐ κωφὴ τὰς τῶν πιστῶν πολιτῶν,
+_good is the queen, and not deaf to the prayers of loyal citizens_.
+
+δίκαια λέγεις, _you say what is just_.
+
+
+ENGLISH AFFINITIES
+
+Epistle. Graphic. Hippodrome. Euphony. Astronomy. Telescope. Polyglot.
+Agriculture. Basilica. Basil. Police. Two. Triad. Pentarchy. Hexagon.
+Heptarchy. October. Decade. Myriad.
+
+
+
+
+LESSON IV
+
+THIRD DECLENSION, SINGULAR
+
+
+The third declension of nouns in Greek is more rich and varied than the
+other two, and, besides, is distinguished by a peculiarity from which
+the others are free, viz. while in the first and second declensions
+all that requires to be done in forming the cases is to change the
+last syllable of the nominative commencing with a vowel, leaving
+the main body of the word unchanged, as ἡμέρα,-ας, ἄργυρ-ος,-ου, in
+the third we observe that the final consonant of the root seems in
+many cases to have been assimilated or absorbed by the termination
+of the nominative, and reappears in the other cases, as in ἐλπίς,
+genitive ἐλπίδος. Sometimes also the vowel of the last syllable of
+the nominative is shortened before the addition of the genitival
+termination, as in ποιμήν, ποιμένος. In some classes of nouns no change
+is made, and the analogy of the two other declensions is followed
+throughout. We shall take our examples from the more simple classes,
+leaving the more complex and exceptional to be learned in the course of
+reading.
+
+The general type is—
+
+         -ος, genitive.
+         -ι,  dative.
+         -α,  objective.
+
+    as—
+
+         σωτήρ,         _a saviour_.
+         σωτῆρος,       _of or from a saviour_.
+         σωτῆρι,        _to a saviour_.
+         σωτῆρα,        _a saviour_.
+         κώδων,         _a bell_.
+         κώδωνος,       _of a bell_, etc.
+         λυμεών, -ῶνος, _a blackguard_, etc.
+
+and a number of words signifying a dwelling-place, as—
+
+    ἵππος,              _a horse_;
+    ἱππών,    -ῶνος,    _a stable_.
+    ἐλαιών,   -ῶνος,    _an oliveyard_.
+    παρθενών, -ῶνος,    _room of the virgin_;
+
+and nicknames of men:
+
+    γάστρων, -ωνος }
+                   } _paunchy_.
+    φύσκων         }
+
+
+And to this class which follows the analogy of the other declensions
+our first colloquy is confined.
+
+(1) ὁρᾷς τὸν ἀροτῆρα τῷ ἀρότρῳ κόπτοντα τὴν γῆν; _do you see the
+ploughman cutting up the ground with his plough?_
+
+χρήσιμον τὸ ἔργον τοῦτο καὶ ἀναγκαῖον, _this is a useful and necessary
+work_.
+
+ἰσχυρὸν ἔχει ἵππον ὁ ἀροτήρ, _the ploughman has a strong horse_.
+
+τίνος ἐστὶν ἡ εἰκὼν ἐκείνη; _what likeness is that?_
+
+τοῦ Ιησοῦ Χριστοῦ τοῦ σωτῆρος ἡμῶν, _the likeness of Jesus Christ our
+Saviour_.
+
+θεῖον πάνυ τὸ πρόσωπον, _an altogether divine countenance_.
+
+τίς ἐστιν ἡ βίβλος ἐκείνη ἡ λαμπρά; _what is that grand book?_
+
+ἡ γεωγραφία τοῦ Στράβωνος, _the geography of Strabo_.
+
+τί πίνεις ἐκ τοῦ κρατῆρος ἐκείνου; _what are you drinking out of that
+bowl?_
+
+πίνομεν τὸν οἶνον, _we are drinking wine_.
+
+δός μοι τὸν τρίβωνα τὸν παλαιόν, _give me my old cloak_.
+
+ἐκ μικροῦ σπινθῆρος δεινὴ πολλάκις ἀνάπτεται φλόξ, _from a small spark
+often a fearful flame arises_.
+
+ὡς γράφει ὁ Ἀπόστολος Ἰάκωβος, _as James the Apostle writes_.
+
+καίτοι τί ταῦτα λέγεις; _but why do you say this?_
+
+φοβεῖ μὲ ὁ πολὺς ἐκεῖνος καπνὸς ὁ ἐκ τῆς καπνοδόχης, _I fear that
+quantity of smoke from the chimney_.
+
+ἀκούω τοῦ κώδωνος καὶ τῆς τοῦ κλητῆρος φωνῆς ὃς ἐγείρει τοὺς πολίτας,
+_I hear the bell, and the voice of the crier who wakes the people_.
+
+οὐ σμικρὸς ὁ κίνδῡνος, _there is great danger_.
+
+ἀκούω τοῦ ἀλεκτρυόνος, _I hear the cock_.
+
+(2) Nouns in ωρ and ην shorten the long ultimate vowel of the
+nominative, as ῥήτωρ, ῥήτορος; ποιμήν, ποιμένος; ὕδωρ, ὕδατος, _water_.
+
+ὁρᾷς τὸν ποιμένα ἐκεῖνον μετὰ τῶν προβάτων ἐν τῷ λειμῶνι; _do you see
+that shepherd with the sheep in the meadow?_
+
+ὁρῶ, καὶ τὸν κύνα, _I see them and the dog_.
+
+ἆρα οὖν ἀκούετε τῆς φωνῆς τοῦ δεινοῦ ἐκείνου ῥήτορος; _do you hear the
+voice of that great orator?_
+
+ἀκούομεν· μᾶλλον δὲ ἀρέσκει ὁ τῶν χελῑδόνων τρισμὸς καὶ τῆς ἀηδόνος τὸ
+ἆσμα, _we hear; but like better the twitter of the swallows and the
+song of the nightingale_.
+
+δίκαίως· αὗται γὰρ κινοῦσι τὸ βαθὺ τῆς ψυχῆς, _with good reason; for
+these stir the depths of the soul_.
+
+(3) Feminines in ́ῐς and ́ᾰς, with the radical δ before the case
+terminations, as λαμπ́ᾰς,-άδος; ἐλπ́ῐς,-ίδος. Neuters in α have the
+genitive in τος. Words ending in ψ = πς or βς, as λαῖλαψ, λαίλαπος, _a
+storm_; φλέψ, φλεβός, _a vein_; Κύκλωψ,-ωπος, _a Cyclops, Giant Round
+Eye_, lose the σ of the nominative and present π or β before the case
+termination. In the same way nouns in ξ = κς or γς, by losing the
+final σ of the compound consonant, cause the single κ or γ to reappear
+in the oblique cases, as ἱέραξ, _a hawk_, ἱέρᾱκος; ἀλώπηξ, _a fox_,
+gen. ἀλώπεκος; κόραξ, κόρακος, _a crow_,
+
+ἔρχεται ὁ ὑετός, _the rain is coming_.
+
+οὐδαμῶς, _not at all_.
+
+τὴν ψιλὴν ψεκάδα οὐκ ἔγωγε ὑετὸν λέγω, _a thin drizzle I do not call
+rain_.
+
+ἐκείνη ἡ νεφέλη σημαίνει λαίλαπα, _that cloud foretells a storm_.
+
+λαμπρὰν ἔχω ἐλπίδα καλῆς ἡμέρας, _I have bright hope of a beautiful
+day_.
+
+ὁρᾷς ἐκεῖνο τὸ γυναικάριον ἐν τῷ ἀγρῷ; _do you see that little woman in
+the field?_
+
+λέγουσι μαινάδα εἶναι, _they say that she is mad_.
+
+καὶ πιστεύω ἔγωγε, _I for one believe it_.
+
+δός μοι τὴν κρηπῖδα, καὶ τὸν πέτασον καὶ τὴν χλαῖναν, _give me my boot,
+my hat, and my plaid_.
+
+ποῦστι τὸ ὑπόδημά μου τὸ ἕτερον; _where is my other shoe?_
+
+τί ἔχεις ἐν τῷ στόματι; _what have you in your mouth?_
+
+ἄρτον· χάριν ἔχω τῷ Θεῷ, _bread, thank God!_
+
+τί γράφεις; _what are you writing?_
+
+ποίημα, _a poem_.
+
+πότερον νοῦς ἔστιν ἐν τῷ ποιήματι; _is there any sense in the poem?_
+
+πῶς οὔ; οὐ φυσῶ φυσήματα ἐκ σαπῶνος, _of course; I don’t blow
+soap-bubbles_.
+
+ὁρᾷς ἐκεῖνον τὸν κόρακα; _do you see that crow?_
+
+ὁρῶ, περιπατεῖ ὡς κληρικὸς σεμνῷ τῷ βήματι, _I do; he walks like a
+clergyman, with a grave step_.
+
+τί ἐστι τὸ ὄνομα τοῦ ἐνδόξου ἐκείνου ῥήτορος; _what is the name of that
+famous orator_?
+
+Γλάδστων, _Gladstone_.
+
+ὄνομα Σκωτικόν, _a Scotch name_.
+
+καὶ μάλα γε· ἔχει γὰρ ἑρμηνείαν τὸ ὄνομα, λίθος ὁ τοῦ ἱέρᾱκος,
+_certainly, for the interpretation of the name is_ the stone of the
+hawk.
+
+ἔστι Γλάδστων ὄνομα δήμου τινὸς ἐν τῇ χώρᾳ τοῦ Μεσολωθιᾶνος, _Gladstone
+is the name of a parish in Midlothian_.
+
+τί πράττει ὁ παῖς ἐκεῖνος; _what is that boy doing?_
+
+μαστιγοῖ τὴν βέμβῑκα, _he is whipping his top_.
+
+αὐτὸς μᾶλλον ἄξιος τῆς μάστῑγος, κακοῦργον γὰρ τὸ θρέμμα, _himself is
+more worthy of the whip, for he is a wicked creature_.
+
+ἔτι δὲ ἀργός· οὐκ ἄξιος τοῦ ἄρτου, _also idle; not worthy of his bread_.
+
+νομίζω ἔγωγε τὸ νῶτον αὐτοῦ καὶ τὴν μάστῑγα ἐγγὺς προσήκειν γένει, _I
+think the whip and his back are nearly related_.
+
+κακός ἐστιν· ἀλώπεκος καὶ ἄρκτου μῖγμα παράδοξον, _he is bad; a strange
+mixture of a fox and a bear_.
+
+(4) Nouns in ῑς and ῡς have ν in the objective, as σῦς, _a pig_;
+ἰχθ́ῡς, _a fish_, κ́ῑς, _a woodworm_. Also those in ῐς and ῠς, as
+πόλις, _a city_, πόλιν; ὄφις, _a snake_, ὄφιν; πῆχυς, _a forearm_,
+πῆχυν. These have the genitive in εως, and the dative in ει, as πόλεως,
+πόλει.
+
+πατήρ, _a father_, and μήτηρ, _a mother_, have πατρός and μητρός in
+genitive, and πατρί and μητρί in dative; but the objective is in the
+regular form with the short penult πατέρα. θυγάτηρ, _a daughter_,
+follows the same rule, ἀνήρ has ἀνδρός, ἀνδρί, ἄνδρα.
+
+βασιλεύς, _a king_, and ἱερεύς, _a priest_, have the genitive in έως,
+and the dative in εῖ, like πόλις, but the objective is έα. βοῦς, _an
+ox_, has βοός, βοί, and βοῦν.
+
+γυνή, _a woman_, has genitive and dative -αικός, -αικί, and objective
+-αῖκα.
+
+ὁρᾷς τὸν καλὸν ἰχθ́ῡν ἐν τῷ ὕδατι; _do you see that beautiful fish in
+the water_?
+
+ὁρῶ, στίλβει τὸ θρέμμα, ὥσπερ μαργαρίτης, _yes, the creature glances
+like a pearl_.
+
+ἕτερον πάνυ ὁ σῦς ὁ ῥυπαρὸς ἐν τῷ συφεῷ, _very different is the filthy
+pig in the sty_.
+
+μῑσῶ τὸν σῦν, _I hate the pig_.
+
+ὅμως χοῖρος σιτευτὸς λαμπρὸν ἄγαλμα τοῦ δείπνου, _nevertheless a fatted
+pig—bacon—is the great glory of a dinner_.
+
+ὁρᾷς τὸν ὄφιν ἐν τῇ πόᾳ; _do you see the snake in the grass?_
+
+μῑσῶ τὸ θρέμμα, _I hate the creature_.
+
+διὰ τί; _why?_
+
+ἔχει κίνδῡνον, _it is dangerous_.
+
+φρίττω τὸ ζῷον, πρόσωπόν γε τοῦ διαβόλου, _I shudder at the creature, a
+mask of the devil_.
+
+ἔχει πατέρα ὁ ὄφις τὸν Σατανᾶν, _the snake has Satan for his father_.
+
+πολλὰ ἔχει πρόσωπα ὁ διάβολος, _the devil has many masks_.
+
+αἱρετώτερον δὲ καλῆς γυναικὸς τὸ πρόσωπον, _specially that of a fair
+woman_.
+
+καὶ δὴ καὶ ἱερέως ὑπερηφάνου, _and that of a proud priest_.
+
+ἔτι δὲ βασιλέως ἀνόμου καὶ τυράννου ὠμοῦ, _also of a lawless king, and
+a cruel tyrant_.
+
+καὶ ἀνδρὸς ἑκάστου τῶν ἐν πόλει ὅσοι πονηροί, _and of any bad man in
+the town_.
+
+(5) Adjectives of this declension occur most commonly in one of these
+three forms—
+
+    (α) ων, -ονος, masculine and feminine; ον, neuter—as
+        σώφρων, _sound-minded_; πρόφρων, _forward_,
+        _ready_—like nouns in ων _supra_. (β) ής, as
+        ἀληθής, masculine and feminine; ἀληθές, neuter;
+        genitive in οῦς and dative in εῖ—ὑγιής, _healthy_;
+        σαφής, -ές, _distinct_, _clear_.
+
+    (γ) ύς, masculine; εῖα, feminine; ύ, neuter; as γλυκύς,
+           _sweet_; βαρύς, _heavy_.
+
+    μέλας, _black_, has μέλαινα, μέλαν, and τάλας,
+           _wretched_, the same.
+
+ἀληθὲς τὸ δόγμα τοῦτο τὸ περὶ τοῦ διαβόλου, _this doctrine about the
+devil is true_.
+
+καὶ μάλα γε καὶ βαρύ, _yes, and weighty_.
+
+γλυκὺ τὸ μέλι μετὰ τὸ πικρόν, _sweet is honey after sour_.
+
+δημιουργοὶ αἱ μέλισσαι τοῦ μέλιτος τοῦ γλυκέος, _the bees are the
+makers of sweet honey_.
+
+βασιλέως γλύκυσμα τὸ μέλι, _it is a king’s dainty, honey_.
+
+στέργομεν σύμπαντες τὰ νώγαλα καὶ τὰ τρωγάλια ἀκόλουθα τοῦ δείπνου, _we
+all like dainties and a dessert to follow the dinner_.
+
+
+ENGLISH AFFINITIES
+
+Gastric juice. Work. Bible. Geography. Crater. Wine. Palæography. Phlox
+(the name of a flame-coloured flower). Apostle. Police. Rhetorician.
+Pound. Abyss. Phrenzy. Wet. Phlebotomy. Cyclops. Hydropathy. Mænad.
+Heterodoxy. Poem. Crow. Genesis. Generation. Mixture. Paradox.
+Ichthyology. Paternal. Andrew. Alexander. Bovine. Gynæcology. Sow.
+Devil. Hierarchy. Tyrant. Glycerine. Barometer. Mellifluous.
+
+
+
+
+LESSON V
+
+THIRD DECLENSION, PLURAL
+
+
+The plural terminations of the third declension are—
+
+    ες, nominative, α, neuter.
+    ων, genitive.
+    σι, dative.
+    ᾰς, objective, α, neuter;
+
+as ποιμήν, ποιμένες, λαῖλαψ, λαίλαπες, following always the type of
+the genitive singular, as πατέρες, not πατρές; but ἀνήρ has ἄνδρες,
+not ἀνέρες. Only in the dative plural the final consonant ν, δ, or τ
+is dropped before the σι of the dative, as ποιμέσι, _to shepherds_;
+στόμασι, _to mouths_; λαμπάσι, _to torches_.
+
+The adjective πᾶς, πᾶσα, πᾶν follows this rule, having παντός in the
+genitive, but πᾶσι in dative plural; so γίγας, _a giant_; γίγαντος, _of
+a giant_; but γιγᾶσι, _to giants_.
+
+οὗτος ὁ πατὴρ πάντα τὰ χρήματα δίδωσι ταῖς θυγατράσι, τῷ δὲ υἱῷ οὐδέν,
+_this father gives all the money to his daughters, to his son nothing_.
+
+οἱ μὲν τῆς ἐκκλησίας πατέρες πολλοί, ἕκαστος δὲ παῖς ἕνα μόνον ἔχει
+πατέρα, _the fathers of the church are many, but each boy has only one
+father_.
+
+δὸς τοῖς μὲν παισὶ βακτηρίαν, ταῖς δὲ παρθένοις σκιάδειον, _give a
+stick to the boys, a parasol to the young ladies_.
+
+γίγᾱς πάνυ ὁ παῖς οὑτοσί, καὶ τέρας γε πρός· δακτύλους γὰρ δὴ ἑπτὰ ἔχει
+ἐπὶ τοῖς ποσίν, _this boy is a giant, and a monster to boot; he has
+seven toes on his feet_.
+
+τούτων τῶν παιδῶν πάντων ἄτοπόν τι ἔχει ἡ ἐσθής, παρέχουσά γε τὴν μὲν
+χλαμύδα μέλαιναν, τὸ δὲ πῑλίδιον ξανθόν, _the dress of all these boys
+is ridiculous, a black plaid with a yellow cap_.
+
+ἀληθῆ λέγεις, _true_.
+
+ENGLISH AFFINITIES
+
+Father. Panorama. Daughter. Ecclesiastical. Polytheism. Monologue.
+Giant. Dactyl. Seven. Foot. Melancholy. Lecture. Parthenon.
+
+
+
+
+LESSON VI
+
+THE DEGREES OF COMPARISON IN ADJECTIVES
+
+
+The general form is τερος for the comparative and τατος for the
+superlative, the genders following the type of the substantives of
+the first and second declensions, as δίκαιος, _just_, δικαιότερος,
+δικαιότατος; also, to avoid the concurrence of four short syllables
+unfavourable to the dactylic rhythm of the early poetry, the ότερος in
+certain cases becomes ώτερος, and the ότατος, ώτατος, as—
+
+    σοφός, _wise_, σοφώτερος, σοφώτατος.
+
+    So—
+        φοβερός, _terrible_.
+        χαλεπός, _difficult_.
+        φανερός, _plain_.
+
+Adjectives in ας, αινα, αν, and in ης, ες, add the τερος and τατος to
+the neuter, as—
+
+    μέλας,   _black_,    μελάντερος,   -τατος.
+    ἀληθής,  _true_,     ἀληθέστερος,  -τατος.
+    ἀκριβής, _accurate_, ἀκριβέστερος, -τατος;
+
+a termination which is assumed also by adjectives in ων, as εὐδαίμων,
+_happy_, εὐδαιμονέστερος,-τατος.
+
+Some adjectives are compared by ιων,-ον, and ιστος,-η,-ον, as—
+
+    καλός,             _beautiful_;
+    καλλίων,           _more beautiful_;
+    κάλλιστος,         _very beautiful_.
+    ἡδύς,              _sweet_, ἡδίων, ἥδιστος.
+    ταχύς,             _swift_;
+    θάσσων for ταχίων, _swifter_; and
+    τάχιστος,          _very swift_.
+
+This form belongs also to some common irregular comparisons as—
+
+    ἀγαθός, βελτίων, βέλτιστος, _good, better, best_.
+    μέγας, _great_, μείζων, μέγιστος.
+    κακός, _bad_,   χείρων, κάκιστος.
+    πολύς, _many_,  πλείων, πλεῖστος;
+
+which follow in declension the law of the substantives of the same
+type, as μείζων, μείζονος; πλείων,-ονος, plural πλείονες, contracted
+πλείους.
+
+Comparatives are either accompanied with a genitive or followed by ἤ—as
+ὁ υἱὸς μείζων ἐστὶ τοῦ πατρός, _the son is taller than the father_—or ἢ
+ὁ πατήρ.
+
+οὗτος ὁ νεανίσκος πολὺ μικρότερός ἐστι τῆς ἀδελφῆς· νᾶνός ἐστι, _this
+young man is much less than his sister; he is a dwarf_.
+
+λέγει ἡ ἁγία γραφὴ ὅτι ὁ Σαοὺλ πολὺ μέγιστος ἦν πάντων τῶν συμπολιτῶν,
+_the holy scripture says that Saul was by far the tallest of all his
+fellow citizens_.
+
+οὐ σοφώτατος δέ, _but not the wisest_.
+
+ἄμεινον τοῦ μεγέθους ἡ σοφία, _wisdom is better than stature_.
+
+πόσα ἄτακτα ῥήματά ἐστιν ἐν τῇ Ἑλληνικῇ γλώσσῃ; _how many irregular
+verbs are there in the Greek tongue?_
+
+οὐκ οἶδα, _I do not know_.
+
+περὶ τούτου γε χρὴ ἐρωτᾳν τὸν μάντιν, τὸν Οὐείτχιον, _on this point you
+must consult the oracle, Veitch_.
+
+φοβερὸν τὸ πλῆθος, _a terrible multitude_.
+
+πλείω ἢ οἱ κόρακες ἐν τῷ ἀγρῷ, _more than the crows in the field_.
+
+ἀληθέστατα λέγεις, _you say what is very true_.
+
+λέγω τὸ ἔμοιγε πονηρότατον καὶ χαλεπώτατον, _I say what for me at least
+is a very painful and a very difficult business_.
+
+μὴ ἀθύμει· πολλὰ ἔχει κακὰ ὁ βίος, παγκάκιστον δὲ τὸν ἀπελπισμόν,
+_don’t despair; there are many bad things in life, but the worst is
+despair_.
+
+τῶν δὲ ἀγαθῶν ἐν τῷ βίῳ τί βέλτιστον; _and of the good things in life
+which is best?_
+
+ἡ πίστις, _faith_.
+
+ὡς λέγει ὁ προφήτης Ἀμβακούμ· ὁ δίκαιος ἐκ πίστεως ζήσεται, _as the
+prophet Habakkuk says, the just man shall live by faith_.
+
+οὗ οὐκ ἔχει λόγον ἀληθέστερον ἡ ἁγία γραφή, _a word than which nothing
+more true is found in holy scripture_.
+
+πατὴρ τῆς ἀνδρείας ἡ πίστις, ἀνδρεία δὲ τῶν ἀνδρικῶν ἔργων πατήρ,
+_faith is the father of courage, and courage is the father of manly
+deeds_.
+
+κάλλιστα λέγεις, _admirable_.
+
+καλὸς ὁ λόγος, κάλλιον δὲ τὸ ἔργον, _a beautiful saying, but more
+beautiful is the deed_.
+
+ἄνευ ἔργου πάντων κενώτατον πραγμάτων ὁ λόγος, _without the deed speech
+is the most empty of all things_.
+
+ἐλαφρότερον τῶν ἀχύρων, _more light than chaff_.
+
+καὶ οὐδὲν ἥττον στεῖρον, _and not less barren_.
+
+ἔρρωσο, _farewell_.
+
+
+ENGLISH AFFINITIES
+
+New. Polygon. Hagiography. Tactics. Crow. Biology. Prophet. Energetic.
+Plethora.
+
+
+
+
+LESSON VII
+
+THE FUTURE ACTIVE
+
+
+The characteristic letter of the future tense is σ, inserted before
+the terminations that mark the persons, thus: λύω, _I loosen_; λύσω,
+_I will_; λύσεις, _thou wilt_; λύσει, _he will_; λύσομεν, _we will_;
+λύσετε, _ye will_; λύσουσι, _they will loosen_. Of course by inserting
+this σ, a preceding consonant, where the root is labial, uniting with
+it forms a ψ, as above in nouns (Lesson IV, 3); and in the same way,
+when the final vowel of the root is a palatal the κ or γ appears
+as ξ—so, from βλέπω, _I see_, βλέψω; from λέγω, _I say_, λέξω. But
+there are several variations, which will be learned by practice; the
+following are dominant:—
+
+    (α) Verbs with two consonants before the ω of the
+        present eject the latter before inserting the σ,
+        so that the π or φ of the root united with the σ
+        becomes a ψ, as in τύπτω, τύψω; κόπτω, _I cut_,
+        κόψω; σκάπτω, _I dig_, σκάψω; γράφω, _I write_,
+        γράψω.
+
+    (β) The same rule holds with many verbs in σσω, Attic
+        ττω, the root ending in κ or γ, as πράσσω, _I do_,
+        root πραγ, future πράξω; τάσσω, _I arrange_, τάξω.
+
+    (γ) Verbs in άζω have either σω or ξω, or both, as
+        θαυμάζω, _I admire_, θαυμάσω; νυστάζω, _I nod_, άσω
+        or άξω; ἁρπάζω, _to carry off_, ξω, ἁρπάσομαι in
+        Attic; βαστάζω, _to carry_, βαστάσω.
+
+    (δ) Pure verbs generally lengthen the vowel of the
+        present, α being changed into η, except where a
+        vowel or λ precedes the άω, as—
+                   τιμάω, _I honour_, τιμήσω.
+                   φιλέω, _I love_,   φιλήσω.
+                   δηλόω, _I show_,   δηλώσω.
+               But—
+                   κλάω,   _I break_,     κλάσω.
+                   κοπιάω, _I labour at_, κοπιάσω.
+
+    But some in έω prefer έσω, as τελέω, _I finish_,
+        τελέσω; τρέω, _to tremble_, τρέσω; ζέω, _to boil_,
+        ζέσω.
+
+    (ε) Liquid verbs shorten the long vowel of the root, or
+        throw out the last of two consonants in the root,
+        and lay a circumflex accent on the termination ω,
+        as—
+                   μένω,   _I remain_, μενῶ.
+                   σπείρω, _I sow_,    σπερῶ.
+                   φαίνω,  _I show_,   φανῶ.
+                   βάλλω,  _I throw_,  βαλῶ.
+                   τέμνω,  _I cut_,    τεμῶ.
+
+νῦν δὴ φοβεῖς με· δεινὸς ὡς ἀληθῶς ὁ χρόνος οὗτος ὁ τοῦ μέλλοντος, _now
+indeed you frighten me; this future tense is terrible_.
+
+γέλοια λέγεις· οὐκ ἐάσω σε τὰ τοιαῦτα λέγειν· λέγε μᾶλλον τὸ τῆς
+παροιμίας, χαλεπὰ τὰ καλά, _ridiculous; I will not permit you to speak
+thus; say rather, as the proverb has it, all excellent things are
+difficult_.
+
+λέξω, _I will say so_.
+
+ἔχε πίστιν, _have faith_.
+
+πιστεύσω καὶ νῑκήσω, _I will believe and conquer_.
+
+αἰνέσει σε ὁ πατήρ, _your father will praise you_.
+
+οὐδὲν διστάζω, _I do not doubt it_.
+
+ἀνδρικὸν δηλώσεις θυμόν, _you will show a manly spirit_.
+
+βλέψω ἀνδρικῶς πρὸς τὸν διάβολον καὶ οὐ τρέσω, _I will look manfully in
+the face of the devil and not tremble_.
+
+τί σκάπτει ὁ φύσκων ἐκεῖνος ἐν τῷ λειμῶνι; _what is that paunchy fellow
+digging at in the meadow?_
+
+σκάπτει τάφρον, _he is digging a trench_.
+
+σκάπτει τοὺς θεμελίους λαμπροῦ οἰκήματος, _he is digging the
+foundations of a grand house_.
+
+οὐδαμῶς· τὸν τοιοῦτον οὐ θαυμάσομεν, _not at all; such a fellow we will
+not admire_.
+
+ἰδιώτης ἐστί· πόνον μὲν ἔχει, τέχνην δὲ οὔ· κόψει ποτὲ τὸν ἴδιον
+δάκτυλον τῇ μαχαίρᾳ, καὶ δὴ καὶ τὸν ἴδιον αὐτὸς ἑαυτοῦ σκάψει τάφον·
+τοιοῦτο γὰρ δὴ φιλεῖ γίνεσθαι τὸ τῶν ἀπαιδεύτων τέλος, _he is a
+bungler. He has labour, but no skill. He will cut his finger with his
+knife some day, and dig his own grave. Such is wont to be the end of
+the unlearned_.
+
+
+ENGLISH AFFINITIES
+
+Hydrophobia. Chronology. Chronic. Andrew. Idiot. Penury. Technical.
+Polytechnic. Idiosyncrasy. Paedeutics.
+
+
+
+
+LESSON VIII
+
+THE PAST TENSE
+
+
+The first aorist or indefinite past tense follows the type of the
+future, with a σ before the personal terminations, and an augment ε
+prefixed to the whole word, as a sign of the past tense, thus—
+
+    πράξω, _I will do_.
+    ἔπραξα,    -ας,  -ε,  _I, thou, he_   } _did_
+    ἐπράξαμεν, -ατε, -αν, _we, you, they_ }
+
+In liquid verbs, where the future has no σ, the aorist lengthens the
+vowel of the penult, as—
+
+    μένω     μενῶ    ἔμεινα
+    στέλλω   στελῶ   ἔστειλα
+    τείνω    τενῶ    ἔτεινα
+
+There is another form of the past in
+
+    -ον      -ες     -ε
+    -ομεν    -ετε    -ον
+
+as ἔτυπον for ἔτυψα, which some verbs prefer, as in ἔβαλον, _I threw_,
+from βάλλω, βαλῶ; ἔκραγον from κράζω, and some have both, as ἤνεγκα,
+ἤνεγκον, _I brought_, irregular from φέρω, _I bring_, future οἴσω, _I
+will bring_.
+
+    οἶδα, _I know_, has
+
+    οἶδα,  οἶσθα, οἶδε,  _I,  thou, he_   } _know_.
+    ἴσμεν, ἴστε,  ἴσασι, _we, you,  they_ }
+
+and with the past participle, εἰδώς, -ότος.
+
+    ᾔδειν,   ᾔδεις,  ᾔδει,   _I,  thou, he_   } _knew_.
+    ᾔδειμεν, ᾔδειτε, ᾔδεσαν, _we, you,  they_ }
+
+ἅπερ ἐγὼ ἔπραξα χθές, σὺ πράξεις αὔριον, ἀεὶ γὰρ ὑστερεῖς, _what I did
+yesterday you will do to-morrow; you are always behind_.
+
+τίς τὰ φύλλα ἔκοψε τῆς καλῆς ἐκείνης βίβλου; _who cut the leaves of
+that beautiful book?_
+
+ἐγώ, _I did_.
+
+ἔκοψας, νὴ Δία, ἀμβλείᾳ τῇ μαχαίρᾳ· πρὸς δὲ τούτοις ῥυπαροί εἰσι σοὶ οἱ
+δάκτυλοι, _verily you cut it with a blunt knife; besides, your fingers
+are filthy_.
+
+νίψω τῶ χεῖρε,[5] _I will wash my hands_.
+
+[5] A dual number for τὰς χεῖρας, which both in nouns and verbs the
+Greeks sometimes used for a pair of persons or things. See the grammar.
+
+ἔδωκα ἐκείνῃ παρθένῳ μῆλον, ὁ δὲ παῖς ἥρπαξε· τίς ποτε ἐδίδαξεν αὐτὸν
+τὸ τέχνημα τόδε; _I gave that girl an apple, and the boy seized it. Who
+taught him that trick?_
+
+κακοδαίμων τις, _an evil genius_.
+
+τίς ἔβαλε τὸν λίθον; _who threw the stone?_
+
+ὁ παῖς ὁ ἐν τῷ κήπῳ, _the boy in the garden_.
+
+παράνομός τις ἐστί, _he is a lawless boy_.
+
+χθὲς διέθραυσε πλάκα ὑαλίνην ἐν τῇ τοῦ φροντιστηρίου τοῦ ἐμοῦ θυρίδι,
+_yesterday he broke a glass pane in my study window_.
+
+οὐχί· ὁ αἴλουρος ἦν ὁ ἁμαρτωλός· ἐμήνυσαν αἱ ῥῖνες αἱματηραὶ τὴν
+ἁμαρτίαν τοῦ ζῴου, _not so; the cat was the sinner; the bloody nose of
+the animal declared its sin_.
+
+τὴν βίβλον ἣν ἔδωκά σοι χθὲς ἐγχειρίσεις (Attic ἐγχειριεῖς) τῇ ἀδελφῇ·
+ἀγαθὴ γὰρ ἡ παρθένος καὶ βιβλοῦ ἀγαθῆς ἀξία, _the book which I gave you
+yesterday you will hand over to your sister; she is a good girl, and
+worthy of a good book_.
+
+τίς ᾠκοδόμησε τοῦτο τὸ ἱερόν; _who built this church?_
+
+τέκτων τις, _an architect_.
+
+τέκτων μὲν οὔ, ἐργάτης δέ τις λίθων, _not an architect, a stonemason_.
+
+ὁ γὰρ ἀληθὴς τέκτων ποιητής ἐστι· καὶ τὸ οἰκοδόμημα ὅπερ ᾠκοδόμησε χθὲς
+ποίημα μένει λίθινον αὔριον καὶ ἀεί, ὡς ἔστιν ἰδεῖν ἐν τῇ Αἰγύπτῳ, _for
+a true architect is a poet; and the edifice which he raised yesterday
+remains a stone poem to-morrow and for ever, as one may see in Egypt_.
+
+τίς εἶδε τὸν παῖδα ὃς ἀπέκοψε τὸν κλάδον τοῦ δένδρου ἐκείνου; _who saw
+the boy who cut the branch of that tree?_
+
+εἶδον ἐγώ, _I saw him_.
+
+ἄγε αὐτὸν δεῦρο· μαστιγώσω τὸν κακοῦργον, _bring him to me; I will flog
+the rascal_.
+
+σήμερον πάντως οὐ δειπνήσει, _he shall have no dinner to-day_.
+
+ἢ δειπνήσει γε μετὰ τῶν συῶν, _or dine with the pigs_.
+
+ἐβούλευσα αὐτῷ καλὴν βουλήν, _I gave him good advice_.
+
+μάτην, _in vain_.
+
+οὐκ ἤκουσε, _he did not hear_.
+
+κωφός ἐστι, _he is deaf_.
+
+κωφὸς δὴ πρός γε τὴν τῶν σοφῶν βουλήν, _yes, deaf to the counsel of the
+wise_.
+
+χθὲς ἔκλεισε τὰ ὦτα πρὸς τὸν τοῦ σοφοῦ Σολομῶνος λόγον· τοῦ ἄφρονος οἱ
+ὀφθαλμοί εἰσιν ἐπ’ ἄκρα τῆς γῆς, _yesterday he closed his ears to the
+word of the wise Solomon: the eyes of a fool are in the ends of the
+earth_.
+
+ἤκουσε τοῦ μὲν λόγου, τὸν δὲ νοῦν οὐ κατέλαβε, _he heard the word, but
+he did not take in the sense_.
+
+ὁ ἀδελφὸς αὐτοῦ ὁ ἄφρων ἐπλήρωσε τὸν ἐγκέφαλον διανοημάτων κενῶν, _his
+foolish brother filled his brain with vain imaginations_.
+
+καὶ ἐπίστευσε τῷ ἀδελφῷ μᾶλλον ἢ τῇ ἁγίᾳ γραφῇ, _and he believed his
+brother rather than the holy scripture_.
+
+ὦ τοῦ ἀτυχήματος, _sad! sad!_
+
+
+ENGLISH AFFINITIES
+
+Egotism. Practice. Foliation. Chiromancy. The Parthenon. Didactic.
+Technical. Cacodemon. Lithotomy. Rhinoceros. Zoology. Agatha.
+Hierarchy. Dendritis. Divine. Acrobat. Geography. Logic. Hagiology.
+Hagiolatry. Graphic.
+
+
+
+
+LESSON IX
+
+INFINITIVE MOOD AND PARTICIPLES
+
+
+The infinitive mood gives the action of the verb substantively as we
+use the participle in _seeing is a good thing_, but in Greek, as in
+Latin, always the infinitive, as καλὸν τὸ ὁρᾶν, and declined with the
+article like a noun, through all the cases, of course neuter, as the
+gender does not lie in the action, but in the actor. Its normal ending
+in the active voice is ειν, as in the present βάλλειν, _to throw_,
+and second aorist βαλεῖν; but in first aorist its termination is αι,
+as κόψαι, from κόπτω. Pure verbs follow their vowel, as τῑμᾶν, _to
+honour_; φιλεῖν, _to love_.
+
+Like substantives, verbal infinitives are governed by prepositions
+through all the cases, as περί, _about_; παρά, _from beside_; μετά,
+_with_; ἐν, _in_, and εἰς _into_—as περὶ τοῦ καπνίζειν λέγω μέτρον
+ἄριστον, _about smoking I say moderation is best_.
+
+Participles are verbal adjectives declined as such, and signifying the
+quality or accident of a certain state of being or action belonging to
+an agent.
+
+The participles of the present and of the second aorist are declined in
+masculine and neuter according to the type of the second declension, in
+feminine according to the first, as—
+
+        τύπτων, τύπτουσα, τύπτον, _he,     she, or it_ }
+    τύπτ-οντος,    ούσης,  οντος, _of him, her, or it_ } _striking_.
+          οντι,     ούσῃ,   οντι, _to him, her, or it_ }
+
+The first aorist participle bears the type of the third declension,
+as in γίγας, γίγαντος, _a giant_—so ποιήσας, _having made_; feminine
+ποιήσᾱσα, neuter ποιῆσαν.
+
+    genitive,    -αντος   -ᾱσης   -αντος.
+    dative,      -αντι    -ᾱσῃ    -αντι.
+    objective,   -αντα    -ᾱσαν   -αν.
+
+Pure verbs have a long vowel or diphthong: thus, from
+
+    περιπατέω   περιπατῶν   περιπατοῦντος
+    τιμάω       τιμῶν       τιμῶντος
+
+ἆράγε εἶδες ἐκεῖνον τὸν παῖδα ἐν τῷ κήπῳ περιπατοῦντα; _did you see
+that boy walking in the garden?_
+
+εἶδον, _I did_.
+
+καλὸν τὸ περιπατεῖν καὶ ὑγιές, οὐ τοιοῦτον δὲ τῷ κλέψαντι τὰ μῆλα,
+_walking is good and healthy, but not for him who stole the apples_.
+
+τῑμῶσα τὴν βασίλισσαν τῑμᾷς τὴν πόλιν ἧς δὴ ἐκείνη κεφαλὴ ἐστίν, _in
+honouring the queen you honour the state of which she is the head_.
+
+περὶ τοῦ ὑπνοῦσθαι οὐδὲν ἀκριβῶς ἐπιτάττω· ἓν μόνον λέγω, οὐχ ὑγιὲς τὸ
+ὑπερβάλλειν ὀκτὼ ὥρας ἐν τῇ κοίτῃ, _about sleeping I prescribe nothing
+curiously; only this one thing I say, that to lie in bed more than
+eight hours is not healthy_.
+
+ἀληθῆ λέγεις, _you say well_.
+
+τοῖς γε ὑγιὲς ἔχουσι τὸ σῶμα, _at least for those who have a healthy
+body_.
+
+τὸ γὰρ ἀργεῖν διαφθείρει τό τε σῶμα καὶ τὴν ψυχήν, _for lying idle
+damages both body and soul_.
+
+μάλιστα· καὶ τὸ πράττειν ὁτιοῦν ἐναντίον τῷ συστήματι τοῦ ὅλου
+διαφθείρει τὴν ψυχήν, ὡς λέγει ὁ τῶν καλῶν ἔργων ἀπόστολος, ὁ Ἰάκωβος·
+εἰδότι τὸ καλὸν καὶ μὴ ποιοῦντι, αὐτῷ ἁμαρτία ἐστίν, _certainly, for to
+do anything contrary to the system of the universe destroys the soul,
+as James the apostle of good works says, “to him that knoweth what is
+good and doeth it not, to him it is sin.”_
+
+τῷ λαλοῦντι πολλὰ πολὺς ὁ κίνδῡνος, _to the great talker there is great
+danger_.
+
+ἐν δὲ τῷ ὀλίγα λέγειν μεγάλη ἡ σωτηρία, _but in speaking little there
+is great safety_.
+
+μεγάλη βιβλιοθήκη χρησίμη ἐστὶν εἰς τὸ πολλὰ εἰδέναι, _a good library
+is useful to get great knowledge_.
+
+πῶς γὰρ οὔ; ὅμως οὐκ ἀεὶ εἰς τὸ σοφῶς βιῶναι, _certainly, but not
+always for wise living_.
+
+πολλὰς βίβλους δυνατὸν τοὺς ἀσθενεῖς ἐγκεφάλους κυκᾶν, _it is possible
+that many books may confound weak brains_.
+
+τὸ λεγόμενον, πολλοὶ ὄντες οἱ μάγειροι διαφθείρουσι τὸν ζωμόν, _as they
+say, many cooks spoil the broth_.
+
+καὶ κατὰ τὸν αὐτὸν τρόπον παμπλήθη ἔπιπλα ὑπὲρ τὸ πρέπον καὶ τὸ
+ἡδὺ ἐκπληροῖ τὸ οἴκημα καὶ ταράττει τοὺς εἰσβαίνοντας, _and in the
+same way, a great quantity of furniture, beyond what is proper and
+comfortable, fills up the room, and inconveniences those who enter_.
+
+σοφῶς. ἀεὶ κακὸν τὸ ὑπερβαίνειν, _wise. All excess is bad._
+
+τὴν σοφίαν λέγεις τοῦ Ἀριστοτέλους· ἐν τῷ μέσῳ ἀεὶ ἡ σωτηρία, _the
+wisdom of Aristotle: safety lies in the mean_.
+
+
+ENGLISH AFFINITIES
+
+Peripatetics. Hygiene. Cleptomania. Hypnotism. System. Psychology.
+Apostle. Polyanthus. Trope. Hyperbole. Plethora.
+
+
+
+
+LESSON X
+
+THE OTHER PAST TENSES
+
+
+The imperfect, with the augment prefixed as the sign of the past, is as
+follows; from κόπτω—
+
+    ἔκοπτ-ον,   -ες,  -ε,  _I,  thou, he was_    } _cutting_.
+    ἐκόπτ-ομεν, -ετε, -ον, _we, you,  they were_ }
+
+Pure verbs contract
+
+               αον   into ων
+               αες    ”   ας
+               αε     ”   α
+               άομεν  ”   ῶμεν
+               άετε   ”   ᾶτε
+               αον    ”   ων
+
+    as in—
+
+          ἐτίμων      ἐτίμας     ἐτίμα
+          ἐτιμῶμεν    ἐτιμᾶτε    ἐτίμων
+
+               εον   into ουν
+               εες    ”   εις
+               εε     ”   ει
+               έομεν  ”   οῦμεν
+               έετε   ”   εῖτε
+               εον    ”   ουν
+
+    as in—
+
+          ἐφίλουν    ἐφίλεις   ἐφίλει
+          ἐφιλοῦμεν  ἐφιλεῖτε  ἐφίλουν
+
+The present perfect, or the immediately past perfect, in addition to
+the augment, reduplicates the initial consonant of the root, and its
+terminations are—
+
+    -α,    -ας,  -ε,   _I,  thou, he has_ ...
+    -αμεν, -ατε, -ᾱσι, _we, you,  they have_ ...
+
+It changes also the σ of the future into a κ—
+
+    τιμήσω—τετίμηκα     τετίμηκας   τετίμηκε
+           τετιμήκαμεν  τετιμήκατε  τετιμήκāσι
+
+but this κ, when the root ends in γ or κ, appears as χ; thus—
+
+    πλέκω   πλέξω  πέπλεχα
+    πράσσω  πράξω  πέπρᾱχα
+
+and in the same way the final π of the root appears as φ; thus—
+
+    τύπτω   τύψω   τέτυφα
+    γράφω   γράψω  γέγραφα
+
+In the pluperfect, which is not often used, the same reduplication
+takes place, and the terminations are—
+
+    -ειν    -εις   -ει
+    -ειμεν  -ειτε  -εισαν or -εσαν
+
+as in—
+
+    ἐτετύφειν    ἐτετύφεις   ἐτετύφει
+    ἐτετύφειμεν  ἐτετύφειτε  ἐτετύφεισαν
+
+ἔτυπτον ἐγὼ τὸ παιδάριον, ὅτε εἰσελθὼν ὁ ἀστυνόμος ἥρπασέ με εἰς τὸ
+δεσμωτήριον, _I was beating the boy, when the policeman entering took
+me to prison_.
+
+γέγραφα ἐπιστολὴν πρὸς τὸν πατέρα σου λέγων παῖδά σε εἶναι κόσμιον τοὺς
+τρόπους, _I have written a letter to your father saying that you are a
+well-behaved young man_.
+
+ἐτύγχανον ὕπτιος κείμενος ἐν τῇ κοίτῃ ὅτε μέγας τις μῦς ὑπερπηδήσας
+τὰ στρώματα δεινόν μοι ἐνεποίησε φόβον, _I happened to be lying on my
+back in the bed when a rat, leaping over the bedcover, gave me a great
+fright_.
+
+δικαίως γε, _and with good reason_.
+
+τὰ νῦν δὲ ποῦστι τὸ ἀναιδὲς θρέμμα; _and now, where is the shameless
+creature?_
+
+κέκαφεν αὐτὸ τὸ κυνάριόν μου τὸ ἐκ τῆς Ὀρεινῆς, _my little Skye terrier
+has just snapped it up_.
+
+δίκαια ἔπαθεν, _served it right!_
+
+ποῦστι τὸ μελανοδοχεῖόν μου; _where is my inkstand?_
+
+εὕρηκα, εὕρηκα, ἐν τῷ λουτρῶνι, _I have found it, I have found it, in
+the bathroom_.
+
+παράδοξον τοῦτο· οὐκ ἔγραφον ἔγωγε ἐν τῷ λουτρῶνι, _strange; I was not
+writing in the bathroom_.
+
+οὐχ ὁρῶ τὸν κάλαμον, _I do not see my pen_.
+
+ἰδοῦ· εὗρον ἐν τῷ δειπνητηρίῳ, _here it is; I found it in the
+dining-room_.
+
+ἔπαιζεν ὁ αἴλουρος τῷ καλάμῳ σου καὶ τῷ πετάσῳ, καὶ τῇ χλαμύδι, καὶ
+ταῖς κρηπῖσι, καὶ δεινόν τινα ἐποίει θόρυβον, _the cat was playing with
+your pen, and with your hat, and your plaid, and your boots, and making
+a terrible row._
+
+σφάξον τὸ θρέμμα, _kill the brute!_
+
+οὐδαμῶς· αὐτὸς σὺ αἴτιος, ὃς δὴ ἔλιπες τὸ οἴκημα ἐν πάσῃ ἀκοσμίᾳ, ὁ
+δὲ αἴλουρος πεπλήρωκε τὸ ἔργον σου, _not at all; you yourself are to
+blame, who left the room in great disorder, and the cat has finished
+your work_.
+
+δίκαια λέγεις, _you are right_.
+
+καὶ ἐγὼ μεγάλην ὤφληκα μωρίαν, _and I have committed an act of great
+folly_.
+
+μετανοῶ ἐπὶ τῷ πράγματι, _I repent of the business_.
+
+ἔρρωσο, _farewell_.
+
+
+ENGLISH AFFINITIES
+
+Harpy. Graphic. Epistle. Tropic. The Cosmos. Cosmetic. Big. Melancholy.
+Paradox. Autonomy. Pragmatic.
+
+
+
+
+LESSON XI
+
+VERBS IN μι
+
+
+The great mass of Greek verbs, whatever their variations of person
+and tense may be, agree in this one prominent feature, that the first
+person singular of the present indicative ends in ω, as in Latin _ō_,
+possibly a relic of the pronoun ἐγώ, _I_. But there is a small class
+of verbs in familiar use which, instead of the ω, affix to the first
+person μι, evidently identical with the English _me_ and the German
+_mich_—a confusion of the nominative and accusative cases familiar to
+our ears in French and vulgar English, when we say _it is me_ instead
+of _it is I_. Whatever may have been the original form of the verbs in
+μι, as a matter of practice, if we fling off the μι from the present,
+the future and the tenses cognate with it may be formed directly from
+an assumed form in ω: thus ἵστημι, _I cause to stand_, στήσω, _I will
+cause to stand_, as if from στάω; τίθημι, _I place_, θήσω, _I will
+place_, as if from θέω; δείκνῡμι, _I show_, δείξω, _I will show_, as
+if from δείκω; and δίδωμι, _I give_, future δώσω, _I will give_, as
+if from δόω, the Latin _dō_ evidently preserving the simple form from
+which δίδωμι comes by the prefix of δι and the suffix μι.
+
+_Present_
+
+    ἵστημι,  ἵστης,  ἵστησι, _I,  thou, he_   } _cause to stand_.
+    ἵσταμεν, ἵστατε, ἱστᾶσι, _we, you,  they_ }
+
+
+_Imperfect_
+
+    ἵστην    ἵστης   ἵστη
+    ἵσταμεν  ἵστατε  ἵστασαν
+
+
+_Second Aorist_
+
+    ἔστην    ἔστης   ἔστη
+    ἔστημεν  ἔστητε  ἔστησαν
+
+The middle and passive voice follow the form of the regular verb.
+
+The perfect active of ἵστημι, ἕστηκα, is used as a present with a
+neuter sense, _I stand_, and in like manner, the pluperfect ἑστήκειν,
+and the 2nd aorist ἔστην, _I stood_.
+
+τίθημι and its analogues have ε for the α in the plural, and first
+aorist ἔθηκα instead of ἔθησα; and in the same way ἵημι, _to send_, has
+first aorist ἧκα, _I sent_; so also δίδωμι has ἔδωκα, _I gave_, not
+ἔδωσα.
+
+The irregular verbs εἰμί, _I am_, εἶμι, _I go_ (usually future: _I will
+go_), evidently fall under this scheme. For εἰμί, _I am_, see supra,
+Lesson I. The verb _to go_ has εἶμι, _I go_; εἶ, _thou art going_;
+εἶσι, _he is going_; ἴμεν, _we are going_; ἴτε, _you are going_; ἴᾱσιν,
+_they are going_. Imperative ἴθι, _go_.
+
+ἄπιθι, ἄπιθι, ἄκλητος καθίζεις ἐπ’ ἐκείνῃ τῇ ἕδρᾳ· στήσω σε ἐνταῦθα,
+_begone, begone! you have no business in that seat; I will plant you
+here_.
+
+ἕστηκα ὅπου ἕστηκα, καὶ καθίζω ὅπου καθίζω, _I stand where I stand, and
+I sit where I sit_.
+
+σοὶ ἔδωκα τὴν βίβλον τὴν κομψήν, σὺ δὲ ἔδωκας τῷ παιδισκαρίῳ τούτῳ· ἐς
+τοσοῦτον ἆρα καταφρονεῖς μου, καὶ τοῦ δώρου μου; _I gave the pretty
+book to you, and you gave it to that little girl. Do you so despise me
+and my gift?_
+
+συνῆκα ἃ λέγεις· ἡ δὲ παρθένος μᾶλλον τῆς βίβλον ὀνήσεται ἢ ἐγώ, _I
+understand what you say; but the young lady will be more profited by
+the book than I_.
+
+μάλα ταπεινόφρων σύ γε, _you are very humble_.
+
+οὐχ οὕτως· φιλῶ τὴν παρθένον, _not at all; I love the girl_.
+
+πιθανόν, _likely enough_.
+
+οἱ πολλοὶ τί φασι περὶ τοῦ Γλάδστωνος; _what do people say about
+Gladstone?_
+
+θαυμάζουσι αὐτὸν δικαίως ὡς δεινὸν μὲν περὶ τοὺς λόγους, τῶν δὲ περὶ
+τὰς τῆς πόλεως προσόδους ἐμπειρότατον, καὶ δὴ καὶ τῶν τε Ἰταλικῶν καὶ
+τῶν Ἑλληνικῶν γραμμάτων ἐπιστήμονα, _they admire him, with good reason,
+as a great speaker, also as an expert and apt financier, and besides a
+great Greek and Italian scholar_.
+
+ἀληθέστατα λέγεις· εἰ κατέστησαν αὐτὸν καθηγητὴν τῆς Ἑλληνικῆς
+φιλολογίας ἐν τῷ τοῦ Βουπόρου πανεπιστημίῳ, οὐκ ἐλάττων ἂν ἐγένετο[6]
+τοῦ Βοεκίου, τοῦ Ἑρμάννου, τοῦ Μυλλέρου, καὶ τῶν ἄλλων Γερμανῶν ὅσοι
+περὶ τὴν πολυμαθίαν ἐν τοῖς πρώτοις εὐδοκιμοῦσι, _very true; if they
+had made him professor of Greek in the university of Oxford, he would
+not have stood below Boeckh, or Hermann, or Müller, or any of the
+Germans who are most distinguished for great learning_.
+
+[6] For the use of the particle ἄν here and below see Lesson XV _infra_.
+
+καὶ οὕτως γε ἐτύγχανεν ἂν εὐτυχῶς διαφυγὼν τόν τε πολὺν θόρυβον καὶ
+διαφθορὰν τοῦ βίου πολιτικοῦ, _and so he might have happily escaped the
+great bother and the corruption of political life_.
+
+δυνατὰ λέγεις· ὅμως οὐκ ἄν τις τυγχάνοι διαπεφευγὼς τὴν εἱμαρμένην,
+_possibly; however no man can escape his destiny_.
+
+
+ENGLISH AFFINITIES
+
+Stand. Sit. Seat. Dowry. Philology. Mathematics. Empiric. Dynamics.
+Logic. Grammar. Allopathy. Biology.
+
+
+
+
+LESSON XII
+
+COMPOUND VERBS
+
+
+Verbs compounded with a preposition place the augment and reduplication
+between the preposition and the verb. Except περὶ and πρὸ all
+prepositions ending in a vowel have the vowel elided before the
+augment; πρὸ generally forms a crasis with the augment and becomes
+προὐ. The ν in ἐν and σύν, which had been assimilated in the present,
+is resumed before the augment.
+
+The prepositions that most frequently occur in compound verbs are—
+
+    περί, _round about_, as in English _periphery_.
+    ἀπό,  _off_ or _away from_, as in _apogee_.
+    ὑπό,  _under_, as in _hypocrite_.
+    ἐν,   _in_, as in _energy_.
+    εἰς,  _into_.
+    σύν,  _together_, as in _sympathy_.
+    πρό,  _before_, as in _prophet_.
+    παρά, _alongside_ or _away_, as in _parallel_, _parasite_.
+    ἀντί, _instead of_, _opposite to_, as in _antidote_.
+    μετά, _with_ or _after_, as in _metaphysics_.
+    πρός, _toward_, as in _proselyte_.
+    ἀνά,  _up_ or _back_, as in _anatomy_.
+    κατά, _down_, as in _catalepsy_.
+    ἐπί,  _on_ or _upon_, as in _epilogue_.
+
+ὁ φίλος μου ὁ ἀληθῶς φιλικὸς περιέβαλε τοῖς ὤμοις μου τὴν χλαῖναν
+σκέπην ψύχους, _my true friend threw his cloak round my shoulders as a
+protection against the cold_.
+
+ὑπόδησον τὰ ὑποδήματά μου, _put on my shoes_.
+
+ἀπέβαλον τὰ ὑποδήματα τὰ ἀρχαϊκά· κομψότερα τὰ καινότροπα, _I flung
+away the old-fashioned shoes; those of the new fashion are more
+elegant_.
+
+χάριν ἔχω σοι τοῦ ἀγάλματος, _thanks to you for the pretty gift_.
+
+σήμερον μεταβέβληκεν ὁ οὐρανὸς εἰς τὸ χεῖρον, _to-day the weather has
+changed for the worse_.
+
+κατὰ φύσιν τοῦτο ἐν τῇ ἡμετέρᾳ πατρίδι οὗ οὐδὲν ἔχει στάσιμον ὁ
+οὐρανός, _quite natural, at least in our country, where the weather is
+never steady_.
+
+χθὲς κατέβην εἰς τὸ χῶμα, καὶ εἶδον τὸ μέγα ἀτμόπλοιον, _yesterday I
+went down to the pier and saw the big steamboat_.
+
+πότερον ἤρεσέ σοι ἢ οὔ; _did it please you or not?_
+
+ὑπερεθαύμασά γε, _I admired it exceedingly_.
+
+ἆρα οὐκ εἰσέβης; _did you not go on board?_
+
+εἰσέβην γὰρ καὶ τὸν ναύκληρον εἶδον καὶ τῶν ναυβατῶν δεινὸν πλῆθος, _I
+did, and saw the captain and a great number of the crew_.
+
+ἔπειτα δὲ κατέβην εἰς τὴν κοίλην καὶ ἐθαύμασα ἄπειρα σάγματα πίθων
+καὶ λαρνάκων καὶ κιστῶν καὶ κοφίνων καὶ ἄλλης παντοδαπῆς κατασκευῆς,
+_afterwards I went down into the hold, and saw with wonder countless
+piles of barrels, boxes and chests, baskets, and all sorts of stuff_.
+
+ἔπειτα δὲ ἀνέβην, καὶ προσέβλεψα τὸν κυανοῦν οὐρανόν, καὶ χάριν εἶχον
+τῷ Θεῷ, _then I came up, and looked on the blue sky, and thanked God_.
+
+τελευταῖον δὲ συνέλεξα τὰ σκεύη μου, καὶ ἕστηκα ἐνώπιόν σου ἐν ὁλοκλήρῳ
+δέρματι, _lastly, I gathered up my chattels, and stand before you with
+a whole skin_.
+
+ἀγαθῇ τύχῃ· ἀεὶ εὐτυχεῖς· πανταχοῦ πίπτεις, τρόπον τῶν αἰλούρων, τοὺς
+πόδας ἔχων ἐμπέδους ἐν τῷ δαπέδῳ, _good luck be with you; you are a
+lucky dog; you always fall on your feet like the cats_.
+
+οὐ τυφλώττω· καὶ ἕκαστα εἴωθα πράττειν προσκόποις τοῖς ὀφθαλμοῖς, _I am
+not blind, and am accustomed to do everything with forecasting eyes_.
+
+σοφός σύ γε, _a wise man you!_
+
+
+ENGLISH AFFINITIES
+
+Philanthropy. Steady. Navy. Hollow. Chest. Theology. Epidermis.
+Physiology. Patriot. Atmosphere. Plethora. Podagra.
+
+
+
+
+LESSON XIII
+
+MOODS: SUBJUNCTIVE AND CONDITIONAL
+
+
+The subjunctive or conjunctive mood is the form which the verb takes
+when no independent assertion is made as a fact, but only as a
+sequence of an asserted fact or truth, and having only a secondary or
+conditional existence; as if I should say in English, _I give you this,
+that it may be in your power to do so and so_, the secondary sentence
+preceded by _that_ is altogether dependent on the precedent thing done,
+_I give you this_. In this example the substantival proposition is in
+the present indicative, and the subjunctive nature of the dependent
+sentence is expressed by the auxiliary verb _may_; but, if the leading
+clause is in the past tense, the dependent clause is expressed by
+_might_, which in fact is the past tense of _may_, as _I gave you this
+that you might_. In Greek this past conditional is, from a peculiar
+usage, commonly called the _optative mood_. In the present lesson we
+shall confine ourselves to the dependent tense subjoined to a present
+or a future. The form of the subjunctive is very simple, consisting as
+it does in the mere change of the terminational vowel or diphthong of
+the present into ω and η—
+
+    κόπτ-ω,    -ῃς,  -ῃ,   _I,  thou, he_   } _may strike_;
+    κόπτ-ωμεν, -ητε, -ωσι, _we, you,  they_ }
+
+and in the first and second aorist the same—κόπτω, ἔκοψα, κόψω,-ῃς, -ῃ.
+
+The subjunctive mood is often introduced by ἐάν or ἤν, ἵνα, and ὅταν,
+and when a negative particle belongs to it, it is μή, not οὐ.
+
+δίδωμί σοι ταύτην τὴν βίβλον ἵνα καταλαμβάνῃς ὅσον ἐστὶ χαλεπὸν τὸ
+πρᾶγμα περὶ οὗ ἔγραφες, _I give you this book that you may understand
+how difficult the matter is on which you were writing_.
+
+ἐὰν μὴ ἐκπονῇς τὰ διδάγματα, οὐ διδάξω σε, _if you don’t work out the
+lessons, I will not teach you_.
+
+ἢν τὸν δάκτυλον κόψῃς ἐκείνῃ τῇ ὀξείᾳ μαχαίρᾳ, οὐ παρ’ ἐμοὶ ἡ αἰτία,
+_if you cut your finger with that sharp knife, the blame is not with
+me_.
+
+ἐκτέλεσον τὸ ἔργον τὸ προκείμενον, ἵνα μή σε ταράσσῃ αὔριον τὰ τῆς
+σήμερον ἡμέρας ὑστερήματα, _finish the work that lies before you, that
+the leavings of to-day may not disturb you to-morrow_.
+
+λαβὼν τὸ σκάλευθρον κΐνει τὸ πῦρ, ἵνα μὴ πνίγῃ τὴν φλόγα τὸ βάρος τῶν
+ἀνθράκων, _take the poker and stir the fire, that the weight of the
+coals may not choke the flame_.
+
+ἐὰν μὴ φυλάττῃ τὴν φλόγα, καύσεις τὰς χειρίδας τοῦ ἱματίου, _if you do
+not take care of the flame, you will burn the sleeves of your coat_.
+
+φέρε δὴ τὸν Ὅμηρον ἐκ τοῦ θηκίου, ἵνα ἀκούω τί λέγει περὶ τοῦ κάλλους
+τῶν γυναικῶν, _bring me Homer from the shelf, that I may hear what he
+says about the beauty of women_.
+
+ἰδοῦ, _here it is_.
+
+ἀνάγνωθι, _read it_.
+
+καλὴ καὶ μεγάλη καὶ ἀγλαὰ ἔργ’ εἰδυῖα, _beautiful and tall, and skilful
+in tasteful works_.
+
+φεῦ· ὡς εὖ λέγεις. οὐκ ἀργαὶ αἱ γυναῖκες αἱ παρὰ τῷ ἀοιδῷ, _excellent.
+The singer’s ladies were no idlers._
+
+μιμήτριαί γε τῆς ἐν τοῖς περὶ τὸν βίον σοφῆς προστατίδος Παλλάδος,
+_they were imitators of their patron goddess Pallas, wise in all that
+relates to life_.
+
+ῥίψον τὸ κυνάριον εἰς τὸ ὕδωρ, ἵνα μανθάνῃ τὸ νήχεσθαι, _fling the dog
+into the water, that he may learn to swim_.
+
+ἰδοῦ—νήχεται—ὡς εὐμαθὲς τὸ θρέμμα, _there he goes—he swims—what a
+clever creature!_
+
+ποίησον σὺ κατὰ ταὐτά, _do you the same_.
+
+οὐδαμῶς· φοβοῦμαι μὴ βαπτίσῃ με τὸ κῦμα, _no; I fear the wave will
+overwhelm me_.
+
+γελοῖα λέγεις· ἐλαφρότερον γὰρ τὸ σῶμα τὸ ἀνθρώπινον τοῦ ὕδατος,
+_nonsense; the human body is lighter than the water_.
+
+οὐ καταποντίσει σε τὸ ὕδωρ ἀλλὰ ὁ φόβος, _it is not the water that will
+drown you, but fear_.
+
+πιθανόν· ὅμως ἀντέχομαι τῆς ξηρᾶς, _likely enough; nevertheless I hold
+by the dry land_.
+
+σοφός σύ γε, δεξιώτερον δὲ τὸ ζῷον. χαῖρε, _you are wise, but the
+animal is more clever. Adieu._
+
+
+ENGLISH AFFINITIES
+
+Anthracite. Barometer. Phlogiston. Caustic. Ferry. Mimetic. Pantomime.
+Hydropathy. Baptize. Anthropology. Dexterity.
+
+
+
+
+LESSON XIV
+
+THE OPTATIVE MOOD
+
+
+The optative mood, or subjunctive in a historic sequence after a past
+tense, is distinguished by the domination of the diphthong οι, and runs
+thus—
+
+    βουλεύω,    _I advise._
+    βουλεύοιμι,  βουλεύοις,  βουλεύοι,   _I, thou, he_   } _might_
+    βουλεύοιμεν, βουλεύοιτε, βουλεύοιεν, _we, you, they_ } _advise_.
+
+And so in the second aorist, where there is one, as λάβοιμι, λάβοις,
+λάβοι, etc., from λαμβάνω, _might, could, would_, or _should get_.
+
+In the first aorist the vowel α rules, and becomes αι, as singular,
+βουλεύσαιμι, βουλεύσαις or ειας, βουλεύσαι or ειε; plural,
+βουλεύσαιμεν, βουλεύσαιτε, βουλεύσαιεν or ειαν.
+
+The most common uses of the optative may be classified thus—
+
+    (1) In narrating what some one said, without
+        guaranteeing the fact; as if I should say in
+        English, _he said that he were going to do so_,
+        instead of _was_; _e.g._ ἔλεγεν ὅτι ἀνδρὶ νέῳ καὶ
+        σφοδρῷ οὐ ῥᾴδιον εἴη κολάζειν τὰ πάθη, _he said
+        that it was not easy for a man young and vehement
+        to control his passions_.
+
+    (2) To express a purpose or consequence in past time,
+        with ὡς, ἵνα, or ὅπως, as ἐπόνει σταθερῶς ἵνα ἆθλον
+        λάβοι, _he laboured steadily that he might gain a prize_.
+
+    (3) After εἰ, _if_, to express an indefinite future,
+        generally with ἄν in the dependent clause, as εἴ
+        τις αἵρεσίν μοι δοίη, σπουδάζοιμι ἂν περὶ τὴν
+        Ἑλληνικὴν γλῶσσαν μᾶλλον ἢ περὶ τὴν Ἰταλικήν, _if
+        one gave me the choice, I should prefer to study
+        Greek rather than Italian_.
+
+    (4) To express a wish (from which use the name
+        _optative_ came), as μὴ γένοιτο, _may it not
+        happen—God forbid!_
+
+ὁ φίλος μου συνεβούλευσέ μοι πηδᾷν εἰς τὸ ὕδωρ, ὅπως κυνὸς δίκην
+μάθοιμι τὸ νήχεσθαι· ἐγὼ δὲ οὐκ ἐς τοσοῦτο ἥκω μωρίας, _my friend
+advised me to leap into the water that I might learn to swim like a
+dog; but I am not such a fool_.
+
+εὖ λέγεις· ὁμολογῶ σοι τερπνότερον μὲν εἶναι τὸ ὀρχεῖσθαι, χρησιμώτερον
+δέ ποτε τὸ νήχεσθαι ἔν γε τῇ ναυαγίᾳ, _you say well; I must confess
+dancing is more agreeable, but swimming is sometimes more useful,
+especially in a shipwreck_.
+
+τῶν γνωρίμων τῶν ἐμῶν τις εἶπε ὅτι ἀσκοῖ τὸ νήχεσθαι, ἵνα διαφεύγοι
+τοὺς κινδ́ῡνους τῆς θαλάσσης, _an acquaintance of mine told me that he
+is practising swimming to escape the dangers of the sea_.
+
+σοφὸς ἐκεῖνος, _a wise man he_.
+
+ἀσπὶς τῶν σοφῶν ἡ πρόνοια, _forethought is the shield of the wise_.
+
+ἀκούσας ᾄδοντος τοῦ ἀλεκτρυόνος εὐθὺς ἀπέσεισα τὸν ὕπνον καὶ ἀπέδραμον
+ὡς τάχιστα ἵνα μὴ ὑστεροῖμι τῶν ἀγώνων, _hearing the cock crow I
+forthwith shook off sleep, and ran at full speed that I might not be
+too late for the games_.
+
+ἐγὼ δὲ ἄνευ τῆς χλαίνης ἀπέδραμον ἵνα μὴ τοῦ λαμπροῦ θεάματος
+ἀστοχοῖμι, _and I ran off without my plaid, that I might not miss so
+splendid a spectacle_.
+
+ἐκεῖ δὲ τί εἶδες; _what did you see there?_
+
+θύλακον μέγαν εἶδον ὑδρογόνῳ οἰδοῦντα ἀέρι, _I saw a huge bag full of
+hydrogen gas_.
+
+καὶ ἄνδρα ἔντοσθεν ἀεροβατοῦντα, ἵνα γε προσχάνοι αὐτῷ πολὺς ὄχλος
+ὡς ἐπισκεψομένῳ δῆθεν τὸν ἄνδρα τὸν ἐν τῇ σελήνῃ, _and a man inside,
+sailing through the air, that he might make a rabble of people stare at
+him, as one going to pay a visit to the man in the moon_.
+
+ὦ τῆς μωρίας, _O what folly!_
+
+μωρὸς μωρὸν θαυμάζει, _fool admires fool_.
+
+καταβαίνοντα αὐτὸν σφοδρότερος αἰφνιδίως ἁρπάσας ἄνεμος παρήνεγκε εἰς
+τὸ κωδωνοστάσιον τοῦ μεγάλου ἱεροῦ τῶν ἐπισκοπικῶν, καὶ ὁ ἀλεκτρυὼν
+ὁ ἐν τῷ ἄκρῳ διεκέντησε τὰ ἐντόσθια, _as he was coming down a strong
+blast suddenly seized him and drove him on to the steeple of the
+cathedral, and the cock on the top of the steeple pierced his bowels_.
+
+ὦ τοῦ δειλαίου, _O the poor wretch!_
+
+ὦ τοῦ ἄφρονος· δίκαια ἔπαθεν· ἀεροβατεῖν δεῖ τὰς ὄρνῑθας τὸν αἰθέρα, οὐ
+τοὺς ἀνθρώπους, _O the fool! served him right! birds ought to tread the
+air, not men._
+
+
+ENGLISH AFFINITIES
+
+Mathematics. Homologate. Orchestra. Ode. Agony. Theatre. Acrobat.
+Ochlocracy. Sceptic. Ornithology. Fugitive. Hypnotism. Pathology.
+Ether.
+
+
+
+
+LESSON XV
+
+THE PARTICLE ἄν
+
+
+Besides the use of ἄν with the optative in reference to a future
+probability, noticed in the last lesson, it is joined in Greek with
+the past tenses, the imperfect or aorists, to express what _might_,
+_could_, _would_, or _should have taken place_ in past time if
+something else had happened, or had not happened, as ἔπραξας ἂν τὸ
+δίκαιον εἰ ἔπραξας τοῦτο, _you would have done what is right if you had
+done this_.
+
+ἐγώ, εἰ ἔγνων τὸ ἦθός σου, οὐκ ἂν ἔδωκά σοι τὸ ἀργύριον, _if I had
+known your character, I would not have given you the money_.
+
+τίνα δὴ ἁμαρτίαν ἡμάρτηκα; _how have I done wrong?_
+
+ἐσπάθησας ἀχρήστως τὰ χρήματα· εἰ γὰρ ἐτύγχανες νοῦν ἔχων, οὐκ ἂν
+ἀνήλωσας ἅπαντα εἰς τέρψιν ἐξίτηλον, _you squandered your money
+uselessly. If you had had sense, you would not have spent it all on a
+fleeting pleasure._
+
+εἰ ἐτύγχανες σοφὸς ὤν, διέσωσας ἂν τι τῶν σήμερον θησαυρῶν εἰς τὴν
+χρείαν τῆς αὔριον, _if you had been wise, you would have saved some of
+to-day’s treasure for to-morrow’s need_.
+
+μωρὸς ἂν ἦν ὀνειροπολῶν τὴν μέλλουσαν ἡδονήν, τῆς δὲ παρούσης ἁμαρτών,
+_I should have been a fool, dreaming of the future and missing the
+present pleasure_.
+
+οὕτως λέγοντα ἐλέγχουσί σε οἱ μύρμηκες καὶ αἱ μέλισσαι, _when you speak
+thus the ants and the bees confute you_.
+
+εἰ ὁ Βρούσσιος ἔτυχε μὴ νικήσας ἐν τῇ μάχῃ τοῦ Βαννοκβούρνου, τί ἂν
+συνέβη; _if Bruce had not gained the victory at Bannockburn, what would
+have been the consequence?_
+
+ἐπικρατήσασα ἡ Ἀγγλία ἠφάνισεν ἂν τὸν Σκῶτον ἀπὸ τῆς γῆς, _dominant
+England would have caused the Scot to disappear from the face of the
+earth_.
+
+καὶ τοῦτο θεῖον πάνυ ἂν ἐγένετο εὐτύχημα, _and this would have been a
+great piece of good luck_.
+
+ἐνίοις μὲν οὕτως δοκεῖ, ἐνίοις δὲ οὔ, _some think so and some not_.
+
+τί ἂν συνέβη, εἰ ὁ Ἀλέξανδρος ὁ τοῦ Φιλίππου οὐκ ἐνίκησε τὴν ἐν
+Ἀρβήλοις νίκην; _what would have been the consequence if Alexander, the
+son of Philip, had not gained the battle of Arbela?_
+
+διετέλει ἂν ὁ Πέρσης δεσπόζων τῆς ἀνατολῆς, καὶ οὐκ ἂν ἐκήρυσσον τὸ
+εὐαγγέλιον οἱ ἀπόστολοι Ἑλληνιστί· εἰσήγαγε γὰρ ὁ τοῦ Φιλίππου υἱὸς
+τὴν Ἑλληνικὴν παιδείαν εἰς ὅλην τὴν ἀνατολήν, _the Persian would
+have continued lording it over the East, and the Apostles would not
+have preached the gospel in Greek; for it was the son of Philip that
+introduced Greek learning into all the East_.
+
+λαμπαδηφόρος δήπου τῆς Ἑλληνικῆς σοφίας ὁ μέγας Ἀλέξανδρος, καὶ
+προάγγελος τοῦ εὐαγγελίου, _Alexander the Great truly was the
+torch-bearer of Greek wisdom and the harbinger of the gospel_.
+
+ἀληθέστατα λέγεις, _very true_.
+
+καὶ ταῦτα μὲν περὶ τῆς ἄγαν ὑπηρετικῆς ταύτης προσθήκης εἰρήσθω. χαῖρε,
+_and now enough of this very serviceable particle ἄν. Adieu!_
+
+
+ENGLISH AFFINITIES
+
+Ethics. Terpsichore. Ephemeral. Treasure. Alexander. Despot. Anatolia.
+Evangel. Angel. Scheme. Geography. Apostle. Pedagogue.
+
+
+
+
+LESSON XVI
+
+THE PASSIVE VOICE
+
+
+expressing not what a man does to another person or thing by the
+putting forth of his active force, but what he suffers from the active
+force of another, has its characteristic form in Greek as follows—
+
+_Present_
+
+Indicative—
+
+    πείθ-ομαι,  -ῃ,    -εται,  _I,  thou, he is_    } _persuaded_.
+        -όμεθα, -εσθε, -ονται, _we, you,  they are_ }
+
+Subjunctive, with the long vowel as in the active voice—
+
+    πείθ-ωμαι    -ῃ      -ηται
+        -ώμεθα   -ησθε   -ωνται
+
+and optative with οι—
+
+    πειθ-οίμην      -οιο      -οιτο
+        -οίμεθα     -οισθε    -οιντο
+
+               _Imperfect_
+    ἐπειθόμην      ἐπείθου      ἐπείθετο
+    ἐπειθόμεθα     ἐπείθεσθε    ἐπείθοντο
+
+                 _Future_
+    πεισθ-ήσομαι     -ήσῃ       -ήσεται
+         -ησόμεθα    -ήσεσθε    -ήσονται
+
+              _First Aorist_
+    ἐπείσθ-ην      -ης       -η
+          -ημεν    -ητε      -ησαν
+
+Optative—
+
+    singular, πεισθ-είην      -είης     -είη
+    plural,        -εῖμεν     -εῖτε     -εῖεν
+
+In the perfect as in the active voice the reduplication takes place, as—
+
+    πέπεισμαι       πέπεισαι      πέπεισται
+    πεπείσμεθα      πέπεισθε      πεπεισμένοι εἰσίν
+
+Certain verbs have a second aorist, as στέλλω, _I send_, not ἐστάλθην
+but ἐστάλην, _I was sent_; and pure verbs have the characteristic
+contraction of the vowel into a diphthong, as φιλούμεθα for φιλεόμεθα;
+but these variations are best learned by practice.
+
+ἐστάλησαν οἱ ἀπόστολοι κηρύξοντες τὸ εὐαγγέλιον, καὶ ἐκήρυξαν δεινῶς,
+_the Apostles were sent to preach the gospel, and they preached it with
+power_.
+
+ὅτε οἱ ἀπόστολοι ἐκήρυξαν τὸ εὐαγγέλιον ἐν ταῖς Ἀθήναις, ὀλίγοι
+ἐπείσθησαν, _when the Apostles preached the gospel in Athens, few were
+persuaded_.
+
+ὁ κακοῦργος ἐκεῖνος ἐπήνεγκέ μοι βιαίαν πληγὴν τῇ βακτηρίᾳ καὶ τὸ νῶτόν
+μοι ἐτραυματίσθη χαλεπῶς, _that bad fellow struck me a heavy blow with
+his cudgel, and my back was severely wounded_.
+
+εἶτα δὲ τί συνέβη; _then what happened?_
+
+τῶν τοξοτῶν τις τῶν φυλασσόντων τὴν πόλιν ἥρπασεν αὐτόν, καὶ εὐθὺς
+ἐνεβλήθη εἰς τὸ δεσμωτήριον, _one of the policemen who keep the peace
+of the city laid hold of him, and he was forthwith cast into prison_.
+
+δίκαια ἔπαθεν, _served him right_.
+
+κατὰ φύσιν τοῦτο· πάντες ὅσοι ἄνομοι καὶ βίαιοι δικαίως ἐμβληθήσονται
+εἰς τὸ δεσμωτήριον· οὐ γὰρ ἄνθρωποι οἱ τοιοῦτοι ἀλλὰ συγγενεῖς τῶν
+τίγρεων, _quite natural; all lawless and violent persons will naturally
+be cast into prison; for such persons are not men, but related to
+tigers_.
+
+οἴμοι πέπληγμαι, πόθεν ἡ πληγή; _woe’s me, I am struck! whence came the
+blow?_
+
+ὁ γνώριμός μου ὁ Ἰωάννης Καμερὼν παίζων τὴν κορύνην ἐν τῷ πεδίῳ
+ἔπληξε πλαγίως τὴν σφαῖραν, ἥπερ παρετράπη εἰς τὴν κεφαλήν σου, _my
+acquaintance John Cameron, playing at golf on the links, struck his
+ball obliquely and it was driven against your head_.
+
+οἴμοι—μοι—ὀτοτοτοτοῖ, _O woe’s me, woe!_
+
+ὦ τοῦ ταλαιπώρου, _O poor fellow._
+
+τί χρὴ πρᾶξαι; _what must we do?_
+
+φέρε εἰς τὸ νοσοκομεῖον, καὶ κάλεσον τὸν ἰατρόν· ἔχει γὰρ κίνδῡνον
+τὸ πρᾶγμα, _take him to the infirmary and call the doctor; it is a
+dangerous business_.
+
+αὐτίκα μάλα· κληθήσεται, _instantly; he shall be called_.
+
+
+ENGLISH AFFINITIES
+
+Oligarchy. Plague. Toxicology. Phylacteries. Tiger. Sphere. Nosology.
+Call. Physic.
+
+
+
+
+LESSON XVII
+
+THE MIDDLE VOICE
+
+
+The middle voice, or, as it might more significantly be called, the
+reflexive or the subjective voice, is a form of the verb where the
+action does not pass on from the agent to an outward object, but comes
+back on him, or in some loose way is looked on as done for his benefit,
+or affecting himself specially. Thus it is in the main identical with
+what in Latin grammar used to be called neuter verbs, only it is
+subject to not a few nice shades of personal reference, which leads to
+its apparent confusion with the active voice, and to various anomalous
+usages which can only be learned by practice. It is, of course, in
+strictness more nearly allied to the passive than to the active voice;
+for in both these voices, as distinguished from the active, the force
+of the verb is either altogether spent on the agent, or is in some
+way passively or emotionally or intentionally connected with him.
+This intimate relationship leads to a similarity of form in the two
+voices, the present and imperfect middle being in fact identical with
+the same tenses in the passive voice, and the other tenses, in their
+characteristic changes, more allied to the passive than to the active.
+
+         _Future Indicative_
+    λύσομαι     λύσῃ       λύσεται
+    λυσόμεθα    λύσεσθε    λύσονται
+
+            _First Aorist_
+    ἐλυσάμην    ἐλύσω      ἐλύσατο
+    ἐλυσάμεθα   ἐλύσασθε   ἐλύσαντο
+
+οὐ τῶν τυχόντων κατέλαβέ με ἔχειν διδασκάλους τῆς σοφίας, τὰ νῦν
+δὲ δικαίως αὐτὸς σοφίζομαι, _I had the good luck to have no common
+teachers of wisdom, but now with good reason I profess wisdom for
+myself_.
+
+ἐδεξάμην τὴν βίβλον ἣν σὺ ἐδέξω παρὰ τοῦ ἀνεψιοῦ, καὶ ἀναγνώσομαι αὐτὴν
+πάσῃ σπουδῇ, _I received the book which you got from your cousin, and I
+will read it carefully_.
+
+οὗτος ὁ νεανίας τρέχει δεινῶς· βλάψεται, _this young man runs
+furiously; he will hurt himself_.
+
+οὐ φοβοῦμαι, _I am not afraid_.
+
+ἀσφαλὴς ἐστὶ τοῖς ποσίν, _he is a steady-footed fellow_.
+
+οὗτος ὁ νεανίας ταλαιπώρως κυπτάζει εἰς τὰς βίβλους· τρίψεται
+ὑπερτρυφῶν ἐν τῇ ἀναγνώσει, _this young man stoops miserably down into
+his books; he will wear himself away, stuffing himself with reading_.
+
+μὴ χαλέπαινε· βαθμηδὸν ἀκμάζει πάντα. τὰ μικρότατα σπέρματα, ἀρξάμενα
+ἀπὸ τοῦ ἠρινοῦ χρόνου, πρὸ τῆς ὀπώρας γενήσεται φυτὰ μεγάλα, _do not
+repine. All things grow ripe by degrees. The smallest seeds beginning
+with the spring by harvest time will become large plants._
+
+οὑτοσὶ πλήρεσιν ἀνάγεται τοῖς ἱστίοις, ἡμεῖς δὲ οὐχ ἡττησόμεθα, _this
+fellow sails out with full sails, but we shall not fall behind_.
+
+σήμερον λαμπρῷ χρώμεθα τῷ οὐρανῷ, _to-day we have fine weather_.
+
+αὔριον δὲ ὕσει ὁ θεός, _but it will rain to-morrow_.
+
+ὤ, τάλᾱς ἐγώ· οὐδὲν διαγίγνεται μένον ἐν τῷ οὐρανῷ τῷ κατὰ τὴν
+Καληδονίαν, _alas, alas! there is no continuity or permanence of
+weather in Scotland_.
+
+ἀληθῆ λέγεις· μόνον τὸ τῶν Καληδονίων ἦθος σεμνύνεται ἐπὶ τῷ ἄγαν
+σταθερῷ καὶ ἀμεταβόλῳ· κρατερὸν τὸ Καληδόνιον ἦθος ὡς ὁ γρανιτόλιθος,
+ὁ ἐν Ἀβερδονίᾳ, _true; only the character of the Scots boasts of
+steadiness and permanence. The Scottish character is strong as the
+Aberdeen granite._
+
+χάριν οἶδα τῷ Θεῷ· αὐτὸς ἀλαζονεύομαι τῆσδε τῆς ἐπιμόνου κράσεως οὐ
+σπανίως μεταλαμβάνεσθαι, _thank God! myself boast that I have a fair
+share of this persistent temperament_.
+
+δικαίως γε· ἐγγυᾶται τὴν κατόρθωσιν ἡ ἐπιμονή. ἔρρωσο, _and with good
+reason; perseverance is the pledge of success. Farewell_.
+
+
+ENGLISH AFFINITIES
+
+Didactic. Sophist. Study. New. Early. Vernal. Chronology. Grace.
+Hypertrophy. Idiosyncrasy. Orthography. Acme. Phytology.
+
+
+
+
+LESSON XVIII
+
+PARTICIPLES
+
+
+The Greek participle has a large range of idiomatic and significant
+usages, which can only be learned by reading. For a start, however,
+it may be enough to say that the participle follows the leading
+verb of the sentence in many cases where both Latin and English use
+the infinitive, and that when joined with the definite article the
+participle performs the function of a relative clause in a less formal
+style; as if in English, instead of _the man who used such language_
+is not a gentleman, we should say _the man the having used_, which
+no doubt sounds very clumsy, because we require an auxiliary verb to
+express the past participle, but in Greek ὁ ταῦτα λέξας is manifestly
+neater and more succinct than ὃς ταῦτα ἔλεξε.
+
+οὐκ ἀνέχομαι οὕτω διαβαλλόμενος, _I cannot stand to be slandered in
+this way_.
+
+ἀμέλει· ἀμέλει· οἶδα τὸ ἀνθρωπάριον· χαίρει ἀεὶ βλασφημῶν κατὰ τῶν
+κρεισσόνων, _never mind; never mind; I know the creature; it is his
+delight always to be speaking ill of men better than himself_.
+
+ποία τις ἦν ἡ βλασφημία; _what was he slandering about?_
+
+ἐτύγχανον ἐγὼ ἐπαινῶν τινὰ τῶν δυνατῶν, ἄνδρα πλούσιον καὶ εὔφρονα καὶ
+σώφρονα ἐν Μαγκεστρίῳ· ὁ δὲ εὐθὺς ἤρξατο διαβάλλων ὁλοσχερῶς ἅπᾱσαν
+τήν τε ἀριστοκρατίαν καὶ πλουτοκρατίαν τὴν ἐν τῇ πόλει, _I happened to
+be praising a gentleman of the influential classes in Manchester, rich
+and good and sensible, and forthwith he began to denounce in a sweeping
+style all the plutocracy and the aristocracy of the country_.
+
+φαίνεται διάβολος ὤν, καὶ ὡς ἀληθῶς συγγενὴς τοῦ Κακοδαίμονος, τοῦ
+Διαβόλου, _he appears to be a calumniator, and a cousin-german of the
+evil Spirit, the Devil_.
+
+καὶ διετέλει ἐπηρεάζων, ὡς ἐμοῦ παρασίτου ὄντος καὶ ἀκολούθου
+τῆς βδελυκτῆς τῶν ὀλιγαρχῶν αἱρέσεως· πρὸς δὲ τούτοις τὰ τοιαῦτα
+λοιδορήματα ἐποίησε τυπωθῆναι ἐν ταῖς ἐφημερίσι, _and he went on to
+use insolent language, saying_ (or _implying_) _that I was a parasite
+and a flunkey of the detestable faction of the oligarchs; and in
+addition to all this he got this insulting language printed in the
+newspapers_.
+
+τοὺς τοιούτους ἀνθρώπους ἐχρῆν μαστίξαι· ὅμως, τὸ πρότερον λεχθέν,
+ἀμέλει. δηλός ἐστι νικήσας τὴν ὀργὴν ὁ λέγων ἀμέλει, _such ill-tongued
+rascals should have been flogged; but, as I said before, never mind. It
+is plain that the man who says ἀμέλει has conquered his passion._
+
+δυνατὰ λέγεις· ὅμως σύνοιδα ἐμαυτῷ τὴν τῶν Κυαικέρων ἀπάθειαν οὐκ
+ἐπαγγελλόμενος, _possibly; but I am conscious that I do not profess the
+apathy of the Quaker_.
+
+ἀμέλει· ἀμέλει· τρὶς νῑκηφόρος ὁ νῑκήσας τὴν ὀργήν. βραχεῖα μανία ἡ
+ὀργή, _never mind; never mind; he is three times conqueror who has
+conquered his passion. Anger is a brief madness._
+
+
+ENGLISH AFFINITIES
+
+Devil. Blasphemy. Dynamics. Dynasty. Plutocracy. Aristocracy.
+Cacodemon. Parasite. Heresy. Oligarchy. Type. Ephemeral. Apathy.
+Maniac.
+
+
+
+
+APPENDIX I
+
+ELEMENTARY HINTS ON ETYMOLOGY
+
+
+(1) In borrowed words, especially when the borrowing language, as
+English, does not deal largely in sounding terminations, it is a common
+practice to let the termination drop, either altogether or partly, and
+leave only the simple root, as from λαμπάδα, _lamp_; from δημοκρατία,
+_democracy_; from κακοφωνία, _cacophony_, and other such feminines,
+as _theology_, _philology_, where the α is dropped, and the accent
+transferred to the antepenultimate after the favourite English fashion,
+while the German, more faithful to the Greek, preserves the accented
+ι, and marks the presence of the α by an _e_, as in _Theologié_,
+_Philologié_.
+
+(2) As the Greek element in the English language often comes to us not
+directly from the Greek, but indirectly through the Latin of the Middle
+Ages, it sometimes happens that we find a pure Greek word with a Latin
+termination attached to it naturalised in English, as in _cathédral_,
+from καθέδρα, and in _ephemeral_, from ἐφήμερος. In this example
+the termination _al_, so common in Latin, takes the place of the
+Greek ος, with the same adjectival force; but in not a few cases, as
+_optical_, _ethical_, _clinical_, _political_, the _al_ is an unmeaning
+superfluity, as the adjectival character of the word is already fixed
+by the Greek termination κος, as in κλινικός from κλίνη. In verbs the
+termination _ate_ is pure Latin, but appears sometimes barbarously
+appended to a pure Greek verb, as _homologate_, from ὁμολογῶ.
+
+(3) It is a general rule in etymology that cognate letters, that is,
+letters pronounced by the same organs, or a similar modification of the
+vocal organs, easily pass into one another; thus σ and τ being both
+dental, τ a pure dental, and σ a sibilant dental, and δ being only the
+blunt form of τ, these three letters pass into one another, as in Attic
+πράττω for πράσσω, and ῥόδον, English _rose_. So in German _das_ for
+English _that_. In like manner, λ and ρ being both liquids, λείριον
+becomes _lily_, and the Latin _Tibur_ becomes the Italian _Tivoli_, by
+the interchange of the labials and of the liquids.
+
+(4) The termination _s_ in the names of many of the sciences, as
+_optics_, _acoustics_, _mechanics_, is simply the sign of the plural
+in English, put for ά the neuter plural in Greek, as in τὰ πολιτικά,
+_things belonging to the state_; τὰ ὀπτικά, _things belonging to
+vision_, which, however, the Greeks often express by ἡ ὀπτική in the
+nominative singular feminine, with τέχνη, _art_, or θεωρία, _theory_,
+understood.
+
+(5) The termination _ise_ or _ize_, so common in English, generally
+though not always with an active signification, as in _advertise_,
+_solemnise_, is the ίζω of Greek, as in σοφίζω, _I make wise_, with
+σοφίζομαι, in the middle voice, _I profess myself wise_. The word
+σοφιστής from this verb, in English _sophist_, is the person who makes
+this profession, as in _baptist_, _theorist_, _atheist_, and other
+pure Greek words for an agent, with only the loss of the termination
+ής; sometimes in a hybrid way _ist_ is added to a Latin root, as in
+_deist_, etymologically but not colloquially identical with _theist_.
+
+(6) Sometimes not only is the terminational syllable cut off, but the
+initial also, either wholly or in part; so ἐπίσκοπος, with the change
+of π into the kindred labial β, becomes _bishop_.
+
+(7) When two consonants of different kinship come together, one of
+them, specially that not belonging to the root, disappears, as from
+λάπτω, _lap_; from τύπτω, τύπος, _type_.
+
+(8) The aspirate _h_, in Greek _spiritus asper_, has a close affinity
+with the sibilant _s_; so for ἕξ we have in Latin _sex_, in English
+_six_; ὗς for _sow_; ἕδος, _sedes_, _seat_.
+
+(9) When a word in Latin or Greek commences with a _p_, by aspiration
+it becomes _f_ in English and the Teutonic languages; thus for πῦρ we
+have _fire_, for ποδ-_foot_, for πατήρ, _father_, etc.
+
+(10) The English _w_ is closely connected with the vowels, as appears
+from _water_ and _ooater_; hence it disappears in Greek altogether,
+or is represented by a breathing, as in οἶνος, _wine_; ὕδωρ, _water_;
+ὑετός, _wet_.
+
+(11) In some adjectives the Latin _an_, like _al_, is superfluously
+appended to the Greek termination in κός, as _rhetorician_, from
+ῥητορικός.
+
+(12) The Greek κ, as in κύων, and _cornu_ in Latin, appears in the
+Teutonic languages as _h_, so _hound_, _horn_; κολώνη, _collis_, _hill_.
+
+(13) The letter _m_ at the end of an English word curtailed from
+Greek signifies the thing done, the product of the verb, as ποίημα,
+_poem_, the thing made, a poem, from ποιέω, _I make_; so _baptism_ from
+βαπτίζω, and _chrism_ from χρίω, _I anoint_, and other _isms_.
+
+(14) Finally, as at least two-thirds of the technical words used in our
+scientific nomenclature, and not a few even outside of the range, are
+of Greek extraction, the student would act wisely if at starting he
+were to make a list of all such terms in familiar use, with their Greek
+form and Greek analysis in an opposite column; as—
+
+      _theology_         θεολογία
+    (θεός, _God_; λόγος, _discourse_)
+
+He will thus find that he knows already some two or three hundred Greek
+words in a slightly disguised English form.
+
+
+
+
+APPENDIX II
+
+VOCABULARIES
+
+
+In accordance with the principle set forth in the preface, these
+vocabularies, containing the names of the most familiar objects, are to
+be taken with him as a _vade mecum_ wherever the student goes. He must
+in no wise be content with the lazy habit of recognising a word only in
+a passive recipient style when he meets with it in a book, but he must
+stamp it directly on every object that comes in his way, and repeat
+it frequently without the intervention of the mother tongue, till he
+uses it as familiarly as a workman handles his tools. The language will
+thus become his familiar friend, not, as in the mere bookish method,
+an occasional visitor. Of course, such a catalogue of words is not
+intended to be exhaustive; but the learner, after training himself to
+the habit of thinking and speaking in the foreign idiom, may supply the
+deficiency by consulting any good English-Greek dictionary, such as
+Arnold and Browne’s, London 1856, and for modern Greek, where that may
+be necessary, Lascarides’s English-Greek dictionary, London 1882. From
+these sources also, and from his own reading, which must in no wise be
+neglected, he will be able to pick out appropriate verbs with which he
+may put the Hellenised objects around him, so to speak, into motion,
+and hold a conversation with a fellow-student trained to the colloquial
+method, or with himself, solus cum solo, if he can find no partner in
+his colloquial exercise.
+
+
+I. MAN AND HIS BELONGINGS
+
+(1) THE BODY
+
+    Appetite, ὄρεξις, -εως, ἡ.
+    Arm, βραχίων, -ονος, ὁ.
+
+    Bandy-legged, βλαισός, -ή, -όν.
+    Blind, τυφλός, -ή, -όν.
+    Bosom, στῆθος, -εος, τό.
+    Bowels, τὰ ἔντερα.
+    Boy, παῖς, παιδός, ὁ.
+    Bread, ἄρτος, ὁ.
+    Breakfast, ἄριστον, τό.
+    Breast, στέρνον, τό.
+    Breath, πνεῦμα, -ατος, τό.
+    Butter, βούτῡρον, τό.
+    Button up, to, κομβοῦμαι.
+
+    Cake, πέμμα, -ατος, τό.
+    Choke, trans., πνίγω, -ξω.
+    Cough, βήξ, -χός, ὁ or ἡ.
+    Creep, to, ἑρπύζω.
+    Dessert, τραγήματα, τά.
+    Digested, easily, εὐκατέργαστος, -ον.
+    Digestion, κατεργασία, ἡ.
+    Dinner, δεῖπνον, τό.
+    Disease, νόσος, ἡ.
+    Drink, πόμα, -ατος, τό.
+    Drink, to, πίνω.
+    Dyspepsia, δυσπεψία, ἡ.
+
+    Ear, οὖς, ὠτός, τό.
+    Eat, to, ἐσθίω.
+    Elbow, ἀγκών, -ῶνος, ὁ.
+    Erect, ὀρθός, -ή, -όν.
+    Excrement, τὰ περισσώματα.
+    Eye, ὀφθαλμός, -οῦ, ὁ.
+
+    Face, πρόσωπον, τό.
+    Fat, παχύς, -εῖα, -ύ.
+    Fever, πυρετός, ὁ.
+    Food, βρῶμα, -ατος, τό.
+    Foot, πούς, ποδός, ὁ.
+    Forehead, μέτωπον, τό.
+
+    Gout, ποδάγρα, ἡ.
+    Gums, οὖλα, τά.
+
+    Hair, θρίξ, τριχός, ἡ.
+    Head, κεφαλή, ἡ.
+    Health, ὑγίεια, ἡ.
+    Heel, πτέρνα, -ης, ἡ.
+      to kick with the heel, λακτίζω.
+    Hungry, to be, πεινάω.
+    Hungry, to be very, λῑμώττω.
+
+    Inflammation, φλέγμα, -ατος, τό.
+
+    Jaw, γνάθος, ἡ.
+
+    Knee, γόνυ, -ατος, τό.
+
+    Lament, to, πενθέω.
+    Laugh, to, γελάω.
+    Leg, σκέλος, -εος, τό.
+    Limp, to, χωλεύω.
+    Lip, χεῖλος, -εος, τό.
+    Lungs, πνεύμων, -ονος, ὁ.
+
+    Meagre, ἰσχνός, -ή, -όν.
+    Mouth, στόμα, -ατος, τό.
+    Muscle, μῦς, μυός, ὁ.
+
+    Nail, ὄνυξ, -υχος, ὁ.
+    Neck, τράχηλος, ὁ.
+
+    Nose, ῥίς, -ῑνός, ἡ.
+      to turn up the nose, μυκτηρίζω.
+      to blow the nose, ἀπομύσσομαι.
+
+    Pain, ὀδύνη, -ης, ἡ.
+    Palsy, παράλυσις, -εως, ἡ.
+    Paunchy, φύσκων, -ωνος, or γάστρων, -ωνος, ὁ.
+    Pleasure, ἡδονή, -ῆς, ἡ.
+    Porridge, πόλτος, -ου, ὁ.
+    Pudding, φυστή, -ῆς, ἡ.
+
+    Rheumatism, ῥευματισμός, -οῦ, ὁ.
+    Run, to, τρέχω.
+
+    Scab, or itch, ψώρα, -ας, ἡ.
+    Scratch, to, κνήθω.
+    Shoulder, ὦμος, -ου, ὁ.
+    Sinew, νεῦρον, τό.
+    Skin, δέρμα, -ατος, τό.
+    Snore, to, ῥέγχω.
+    Spittle, πτύσμα, -ατος, τό.
+    Stomach, γαστήρ, -τρός, ἡ.
+    Stoop, to, κύπτω.
+    Sugar, σάκχαρον, τό.
+    Supine, ὕπτιος, -α, -ον.
+    Swallow, to, καταβροχθίζω.
+    Sweetmeats, νώγαλα, τά.
+
+    Tall, μακρός, -ά, -όν.
+    Thigh, μηρός, -οῦ, ὁ.
+    Thin, λεπτός, -ή, -όν.
+    Throat, λαιμός, -οῦ, ὁ.
+    Thumb, ἀντίχειρ, -ειρος, ὁ.
+    Toe, δάκτυλος, -ου, ὁ.
+    Tooth, ὀδούς, -όντος, ὁ.
+
+    Vinegar, ὄξος, -εος, τό.
+    Vomit, to, ἐμέω.
+
+    Walk, to, περιπατῶ.
+    Wash, to, νίζω, fut. νίψω.
+    Water, ὕδωρ, -ατος, τό.
+    Windpipe, λάρυγζ, -υγγος, ὁ.
+    Wine, οἶνος, ὁ.
+
+(2) DRESS
+
+    Belt, ζωστήρ, -ῆρος, ὁ.
+    Bonnet, πῑλίδιον, -ου, τό.
+    Boots, κόθορνος, -ου, ὁ.
+    Bracelet, ψέλλιον, τό.
+    Breeches, ἀναξυρίδες, -ων, αἱ.
+    Buckle, περόνη, -ης, ἡ.
+
+    Clothes, ἐσθής, -ῆτος, ἡ.
+    Coat, ἱμάτιον, τό.
+    Cosmetic, φάρμακον, τό.
+    Curl, βόστρυχος, ὁ.
+
+    Dress, σκευή, -ῆς, ἡ.
+    Dress, to, ἐνδύομαι, ἀμφιβάλλομαι.
+
+    Garter, περισκελίς, -ίδος, ἡ.
+    Glove, χειρίς, -ίδος, ἡ.
+    Gown, a lady’s, πέπλος, ὁ.
+    Greatcoat, περιβόλαιον, -ου, τό.
+
+    Hat, πέτασος, -ου, ὁ.
+
+    Necklace, περιδέραιον, τό.
+
+    Plaid, χλαμύς, -ύδος, ἡ.
+
+    Shirt, χιτών, -ῶνος, ὁ.
+    Shoe, ὑπόδημα, -ατος, τό.
+    Shoe-tie, ἱμάς, -άντος, ὁ.
+    Slippers, βλαυτίον, τό.
+    Stick, βακτηρία, ἡ.
+
+    Umbrella, σκιάδειον, τό.
+    Undress, to, ἀποδύομαι.
+
+    Veil, καλύπτρα, ἡ.
+
+(3) CHARACTER AND CONDUCT
+
+    Bashful, to be, δυσωποῦμαι.
+    Benevolence, φιλοφροσύνη, ἡ.
+    Braggadocio, ἀλαζών, -όνος, ὁ.
+    Brave, ἀνδρεῖος, -α, -ον.
+
+    Careless, ῥᾴθῡμος, -ον.
+    Cautious, εὐλαβής, -ές.
+    Clever, εὐμαθής, -ές.
+    Cowardly, δειλός, -ή, -όν.
+    Cunning, ποικίλος, -η, -ον.
+
+    Dandy, καλλωπιστής, -οῦ, ὁ.
+    Diligent, φιλόπονος, -ον.
+
+    Foolish, ἠλίθιος, -α, -ον.
+
+    Gambler, κυβευτής, -οῦ, ὁ.
+    Gentle, πρᾶος, -εῖα, -ον.
+
+    Handsome, εὐειδής, -ές.
+    Haughty, to be, βρενθύομαι.
+    High-minded, μεγαλόφρων, -ονος.
+
+    Lazy, νωθρός, -ά, -όν.
+    Learned, πολυμαθής, -ές.
+
+    Parsimonious, φειδωλός, -ή, -όν.
+    Prig, κομψοπρεπής, ὁ.
+    Prudent, φρόνιμος, -η, -ον.
+
+    Rash, προπετής, -ές.
+    Religious, εὐσεβής, -ές.
+    Rude, ἀγροικός, -ή, -όν.
+
+    Sensible, νουνεχής, -ές.
+    Shameless, ἀναιδής, -ές.
+    Snort, to, βριμάομαι.
+    Squander, to, σπαθάω.
+    Superstitious, δεισιδαίμων, -ον.
+    Swindler, φέναξ, -ᾱκος, ὁ.
+
+    Thrifty, φειδωλός, -ή, -όν.
+
+    Ugly, αἰσχρός, -ά, -όν.
+
+    Vain, κενόδοξος, -ον.
+
+    Well-mannered, κόσμιος, -α, -ον.
+    Worship, to, προσκυνέω.
+
+II. THE HOUSE AND ITS BELONGINGS
+
+    Basket, κάλαθος, -ου, ὁ.
+    Bath, λουτρών, -ῶνος, ὁ, or βαλανεῖον, τό.
+    Bed, κοίτη, ἡ, or κράβατος, ὁ.
+    Bed-clothes, στρώματα, τά.
+    Bedroom, κοιτών, -ῶνος, ὁ.
+    Bell, κώδων, -ωνος, ὁ.
+    Bellows, φῦσα, -ης, ἡ.
+    Book, βίβλος, -ου, ἡ.
+    Bottle, ἄσκος, ὁ.
+    Box, λάρναξ, -ᾰκος, ἡ.
+    Bread, loaf of, ἄρτος, ὁ.
+    Bread, roll of, ἀρτίδιον, τό.
+    Bust, προτομή, ἡ.
+
+    Cage, κλωβός, ὁ.
+    Candlestick, λυχνία, ἡ.
+    Carpet, τάπης, -ητος, ὁ.
+    Cellar, λάκκος, ὁ.
+    Chair, ἕδρα, ἡ.
+    Chest, κίστη, ἡ.
+    Chimney, καπνοδόκη, ἡ.
+    Cistern, δεξαμενή, ἡ.
+    Clock, ὡρολόγιον, τό.
+    Closet, δίαιτα, ἡ.
+    Cook, μάγειρος, ὁ.
+    Court-yard, αὐλή, ἡ.
+    Cover, or lid, ἐπίθημα, -ατος, τό.
+    Cradle, λίκνον, τό.
+    Cup, κύλιξ, -ικος, ἡ.
+    Curtain, παραπέτασμα, -ατος, τό.
+
+    Dining-room, δειπνητήριον, τό.
+    Door, θύρα, ἡ.
+
+    Ewer, πρόχοος, ἡ.
+
+    Fire, πῦρ, τό.
+    Flask, λήκυθος, ἡ.
+    Floor, δάπεδον, τό.
+    Foot-stool, ὑποπόδιον, τό.
+    Foundation, θεμέλιον, τό.
+
+    Garret, ὑπερῷον, τό.
+
+    Hearth, ἐσχάρα, ἡ.
+
+    Ink, μέλαν, -άνος, τό.
+    Inkstand, μελανοδοχεῖον, τό; καλαμάριον, τό.
+
+    Jar, πίθος, ὁ.
+
+    Kettle, λέβης, -ητος, ὁ.
+    Kitchen, μαγειρεῖον, τό.
+
+    Lamp, λαμπάς, -άδος, ἡ.
+    Lavatory, ἀποπατήριον, τό.
+    Library, βιβλιοθήκη, ἡ.
+    Lobby, πρόδομος, ὁ.
+    Lumber-room, γρυτοδόκη, ἡ.
+
+    Maid-servant, θεράπαινα, ἡ.
+    Master of the house, δεσπότης, -ου, ὁ.
+    Mirror, κάτοπτρον, τό.
+    Mistress, δέσποινα, ἡ.
+
+    Nurse, τροφός, ὁ, ἡ.
+
+    Pail, γαυλός, ὁ.
+    Pane, πλάξ, -ακός, ἡ.
+    Paper, χάρτης, -ου, ὁ.
+    Parlour, ἀσπαστικόν, τό.
+    Pen, κάλαμος, ὁ.
+    Pencil, γραφίς, -ίδος, ἡ.
+    Picture, πίναξ, -ακος, ὁ.
+    Pillow, ὑποκεφάλαιον, τό.
+    Poker, σκάλευθρον, τό.
+    Porch, στοά, -ᾶς, ἡ.
+    Portrait, εἰκών, -όνος, ἡ.
+    Pot, an earthen, χύτρα, ἡ.
+
+    Roof, ὀροφή, ἡ.
+    Room, οἴκημα, -ατος, τό.
+
+    Screen, σκέπη, ἡ.
+    Servant, οἰκέτης, -ου, ὁ.
+    Shake-down, στιβάς, -άδος, ἡ.
+    Shelf, θηκίον, τό.
+    Shovel, λίστρον, τό.
+    Sofa, κλίνη, ἡ.
+    Stairs, κλῖμαξ, -ακος, ἡ.
+    Statue, ἄγαλμα, -ατος, τό.
+    Storeroom, ταμιεῖον, τό.
+    Story, στέγη, ἡ.
+    Study, a, φροντιστήριον, τό.
+
+    Table, τράπεζα, ἡ.
+    Tongs, πυράγρα, ἡ.
+    Towel, χειρόμακτρον, τό.
+
+    Vessel, ἀγγεῖον, τό.
+
+    Wardrobe, ἱματιοφυλάκιον, τό.
+    Wash-hand basin, χέρνιβον, τό.
+    Window, θυρίς, -ίδος, ἡ.
+
+III. THE TOWN AND ITS BELONGINGS
+
+    Abbey, κοινόβιον, τό.
+    Advocate, συνήγορος, ὁ.
+    Alderman, σύνεδρος, ὁ.
+    Alley, _see_ Lane.
+
+    Baker, ἀρτοποιός, ὁ.
+    Bank, τράπεζα, ἡ.
+    Barracks, στρατόπεδον, τό, or σκηνή, ἡ.
+    Bazaar, παντοπώλιον, τό.
+    Beadle, _see_ Verger.
+    Bell, κώδων, -ωνος, ὁ.
+    Bishop, ἐπίσκοπος, ὁ.
+    Bookseller, βιβλιοπώλης, -ου, ὁ.
+    Bookseller’s shop, βιβλιοπωλεῖον, τό.
+    Brick, πλινθίον, τό.
+    Bridge, γέφῡρα, ἡ.
+    Butcher, κρεουργός, ὁ.
+
+    Canal, ὀχετός, ὁ.
+    Carpenter, ξυλουργός, ὁ.
+    Castle, ἀκρόπολις, -εως, ἡ, or φρούριον, τό.
+    Cathedral, καθέδρα, ἡ.
+    Chapel, σηκός, ὁ.
+    Church, ἐκκλησία, ἡ.
+    Churchyard, πολυάνδριον, τό.
+    Clergyman, κληρικός, ὁ.
+    Concert, ξυναυλία, ἡ.
+    Confectioner, πλακουντοποιός, ὁ.
+    Council, βουλή, ἡ.
+    Councillor, βουλευτής, -οῦ, ὁ.
+    Court-house, δικαστήριον, τό.
+
+    Deacon, διάκονος, ὁ.
+    Dispensary, φαρμακεῖον, τό.
+    Draper, ὀθονιοπώλης, -ου, ὁ.
+
+    Elder, πρεσβύτερος, ὁ.
+
+    Grocer, ἀρωματοπώλης, -ου, ὁ.
+    Groom, ἱπποκόμος, ὁ.
+
+    Horse, ἵππος, ὁ.
+    Hotel, πανδοκεῖον, τό.
+    House, οἴκος, ὁ.
+
+    Infirmary, νοσοκομεῖον, τό.
+
+    Judge, κριτής, -οῦ, ὁ, or δικασπόλος, ὁ.
+
+    Lamp, λαμπάς, -άδος, ἡ.
+    Lane, or close, λαύρα, ἡ.
+    Laundry, πλυνός, ὁ.
+
+    Market-place, ἀγορά, ἡ.
+    Mason, λιθοδόμος, ὁ.
+    Mayor, πολιᾱνόμος, ὁ, or δήμαρχος, ὁ.
+    Monument, μνημεῖον, τό.
+
+    Night-watch, νυκτοφύλαξ, -ακος, ὁ.
+
+    Palace, ἀνάκτορον, τό.
+    Park, παράδεισος, ὁ.
+    Pastry-cook, πεμματουργός, ὁ.
+    Pillar, στῦλος, ὁ.
+    Policeman, περίπολος, ὁ, or τοξότης, -ου, ὁ.
+    Poor-house, πτωχοδοχεῖον, τό.
+    Post-office, ταχυδρομεῖον, τό.
+    Preacher, ἱεροκήρυξ, -υκος, ὁ.
+    Prison, δεσμωτήριον, τό.
+    Provost, πρύτανις, -εως, ὁ.
+
+    Railway, σιδηρόδρομος, ὁ.
+    Revenue, πρόσοδοι, αἱ.
+
+    Scavenger, κοπρολόγος, ὁ.
+    School, διδασκαλεῖον, τό.
+    Shoemaker, ὑποδηματοποιός, ὁ.
+    Shop, καπηλεῖον, τό.
+    Station, σταθμός, ὁ.
+    Statue, ἀνδριάς, -άντος, ὁ.
+    Steeple, κωδωνοστάσιον, τό.
+    Store, ἀποθήκη, ἡ.
+    Street, ὁδός, ἡ.
+    Suburbs, προαστεῖον, τό.
+
+    Tailor, ἱματιουργός, ὁ.
+    Taxes, τέλη, τά.
+    Town-clerk, γραμματεύς, -έως, ὁ.
+    Town-hall, ἀρχεῖον, τό, or πρυτανεῖον, τό.
+
+    University, πανεπιστήμιον, τό.
+
+    Verger, ῥαβδοῦχος, ὁ.
+
+    Waiter, ὑπηρέτης, -ου, ὁ.
+
+IV. THE COUNTRY AND ITS BELONGINGS
+
+    Adder, ἔχιδνα, ἡ.
+    Apple, μῆλον, -ου, τό.
+    Ass, ὄνος, ὁ and ἡ.
+
+    Barn, σιτοβολών, -ῶνος, ὁ.
+    Bay, κόλπος, ὁ.
+    Bay tree, δάφνη, ἡ.
+    Bean, κύαμος, ὁ.
+    Beech, φηγός, ἡ.
+    Beetle, κάνθαρος, ὁ.
+    Berry, κόκκος, -ου, ὁ.
+    Birch, σημύδα, ἡ.
+    Bird, ὄρνις, -īθος, ὁ and ἡ.
+    Blossom, ἄνθη, -ης, ἡ.
+    Branch, κλάδος, ὁ.
+    Brier, ῥαχός, -οῦ, ἡ.
+    Brook, ῥύαξ, ᾱκος, ὁ.
+    Bull, ταῦρος, ὁ.
+
+    Cabbage, κράμβη, ἡ.
+    Calf, μόσχος, ὁ.
+    Clay, κέραμος, ὁ.
+    Clod, βῶλος, ἡ.
+    Clover, τρίφυλλον, τό.
+    Cock, or hen, ἀλεκτρυών, -όνος, ὁ or ἡ.
+    Colt, πῶλος, ὁ.
+    Cottage, καλύβη, -ης, ἡ.
+    Cow, βοῦς, βοός, ἡ.
+    Cow-house, βούσταθμον, τό.
+
+    Dike, χῶμα, -ατος, τό.
+    Ditch, τάφρος, ἡ.
+    Dog, κύων, -νός, ὁ and ἡ.
+    Dove-cot, περιστερεών, -ῶνος, ὁ.
+    Drain, ὀχετός, ὁ.
+    Duck, νῆττα, -ης, ἡ.
+    Dung, κόπρος, -ου, ἡ.
+    Dunghill, κοπρών, -ῶνος, ὁ.
+
+    Farmer, γεωργός, ὁ.
+    Fence, φραγμός, ὁ.
+    Fern, πτερίς, -ίδος, ἡ, or πολυπόδιον, τό.
+    Ferry, πορθμεῖον, τό.
+    Field, ἀγρός, ὁ.
+    Fir, πίτυς, -υος, ἡ.
+    Flower, ἄνθος, -εος, τό.
+    Foam, ἀφρός, ὁ.
+    Fountain, πηγή, ἡ.
+    Fox, ἀλώπηξ, -εκος, ἡ.
+    Frog, βάτραχος, ὁ.
+    Furrow, ὄγμος, ὁ.
+
+    Garden, κῆπος, ὁ.
+    Goat, τράγος, ὁ.
+    Goose, χήν, -ός, ὁ.
+    Gooseberry, ἀγριοσταφύλη, ἡ.
+    Grape, βότρυς, -υος, ὁ.
+      dried, σταφίς, -ίδος, ἡ.
+    Grass, πόα, ἡ.
+    Grove, ἄλσος, -εος, τό.
+
+    Harvest, θερισμός, ὁ.
+    Hawk, ἱέραξ, -ᾱκος, ὁ.
+    Heath, ἐρείκη, ἡ.
+    Hedgehog, ἐχῖνος, ὁ.
+    Hill, λόφος, ὁ.
+    Horse, ἵππος, ὁ.
+    Hunter, κυνηγός, ὁ.
+
+    Ivy, κισσός, ὁ.
+
+    Lake, λίμνη, ἡ.
+    Lamb, ἀμνός, ὁ.
+    Lane, λαύρα, ἡ.
+    Laurel, δάφνη, ἡ.
+    Leaf, φύλλον, τό.
+    Lily, κρῖνον, τό.
+      white, λείριον, τό.
+
+    Marsh, τέναγος, τό.
+    Meadow, λειμών, -ῶνος, ὁ.
+    Mine, μέταλλον, τό.
+    Mole, σπάλαξ, -ακος, ἡ.
+    Mountain, ὄρος, τό.
+    Mud, πῆλος, ὁ.
+    Mule, ἡμίονος, ἡ.
+
+    Nursery, φυτώριον, τό.
+
+    Oak, δρῦς, δρυός, ἡ.
+    Ox, βοῦς, βοός, ὁ, ἡ.
+
+    Pea, πίσος, ὁ.
+    Peacock, ταών, -ῶνος, ὁ, or ταῶς, ταῶ.
+    Pear, ὄγχνη, ἡ.
+    Pen, or fold, σηκός, ὁ.
+    Pig, ὗς, ὑός, ὁ and ἡ.
+    Pigeon, περιστερά, ἡ.
+    Pig-sty, συφεός, ὁ.
+    Plough, ἄροτρον, τό.
+    Potato, γηώμηλον, τό.
+    Precipice, κρημνός, ὁ.
+
+    Rabbit, κύνικλος, ὁ.
+    Rake, ἄμη, ἡ.
+    Ravine, φάραγξ, -γος, ἡ.
+    River, ποταμός, ὁ.
+    Rock, πέτρα, ἡ.
+    Root, ῥίζα, ἡ.
+    Rose, ῥόδον, τό.
+    Rush, σχοῖνος, ὁ.
+
+    Sand, ψάμμος, ἡ.
+    Settler, κληροῦχος, ὁ.
+    Sheep, πρόβατον, τό.
+    Shrub, θάμνος, ὁ.
+    Slope, κλῖμα, -ατος, τό.
+    Spade, σκαπάνη, ἡ.
+    Stable, ἱππών, -ῶνος, ὁ.
+    Straw, κάλαμος, ὁ.
+    Strawberry, χαμοκέρασον, τό.
+
+    Thicket, δενδρών, -ῶνος, ὁ.
+    Thorn, ἄκανθα, ἡ.
+    Toad, φρύνη, ἡ.
+    Torrent, χειμάρρους, ὁ, or χαράδρα, ἡ.
+    Tree, δένδρον, τό.
+    Trout, χριστόψαρον, τό.
+
+    Valley, ἄγκος, -εος, τό.
+    Village, κώμη, -ης, ἡ.
+
+    Wag-tail, τροχίλος, ὁ.
+    Well, φρέαρ, -ᾱτος, τό.
+    Worm, σκώληξ, -ηκος, ὁ.
+
+
+THE END
+
+_Printed by_ R. & R. CLARK, _Edinburgh_
+
+*** END OF THE PROJECT GUTENBERG EBOOK GREEK PRIMER ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
